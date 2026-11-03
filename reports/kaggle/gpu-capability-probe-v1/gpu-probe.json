@@ -1,0 +1,24 @@
+{
+  "cuda_available": true,
+  "torch_version": "2.11.0+cu128",
+  "devices": [
+    {
+      "index": 0,
+      "name": "Tesla T4",
+      "memory_bytes": 15636037632,
+      "capability": [
+        7,
+        5
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Tesla T4",
+      "memory_bytes": 15636037632,
+      "capability": [
+        7,
+        5
+      ]
+    }
+  ]
+}

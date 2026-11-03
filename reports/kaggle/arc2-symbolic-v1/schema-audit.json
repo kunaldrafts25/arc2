@@ -1,0 +1,9 @@
+{
+  "ids_match": true,
+  "test_output_counts_match": true,
+  "tasks": 240,
+  "test_outputs": 259,
+  "submission_sha256": "3602d6b76029c874966b943f5b2cf5fe34142887d843c056ab3405618fb5ea86",
+  "official_submission": 57747726,
+  "official_score": 0.0
+}

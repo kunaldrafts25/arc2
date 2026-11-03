@@ -1,0 +1,7 @@
+{
+  "tasks": 240,
+  "test_outputs": 259,
+  "elapsed_seconds": 3.6755636449999827,
+  "tasks_with_consistent_program": 12,
+  "boundary": "Symbolic CPU starting baseline; no neural model, weight training or official score established."
+}

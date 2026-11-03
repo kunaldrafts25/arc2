@@ -1,0 +1,77 @@
+{
+  "rerun": false,
+  "elapsed_seconds": 341.7223877320001,
+  "tasks": 240,
+  "test_outputs": 259,
+  "active_neural_tasks": 4,
+  "valid_generations": 8,
+  "events": 8,
+  "decoder": "chunked",
+  "parity_checks": [
+    {
+      "task_id": "00576224",
+      "orientation": 0,
+      "equal": true,
+      "baseline": {
+        "prompt_tokens": 114,
+        "generated_tokens": 42,
+        "orientation": 0,
+        "demonstrations_omitted": 0,
+        "elapsed_seconds": 3.4843595190000087,
+        "terminated_with_eos": true
+      },
+      "chunked": {
+        "prompt_tokens": 114,
+        "orientation": 0,
+        "demonstrations_omitted": 0,
+        "chunk_size": 256,
+        "generated_tokens": 42,
+        "stop_reason": "complete",
+        "elapsed_seconds": 2.0612381630000414,
+        "terminated_with_eos": true
+      },
+      "peak_bytes": 7309470208
+    },
+    {
+      "task_id": "007bbfb7",
+      "orientation": 4,
+      "equal": true,
+      "baseline": {
+        "prompt_tokens": 546,
+        "generated_tokens": 90,
+        "orientation": 4,
+        "demonstrations_omitted": 0,
+        "elapsed_seconds": 4.832335591999993,
+        "terminated_with_eos": true
+      },
+      "chunked": {
+        "prompt_tokens": 546,
+        "orientation": 4,
+        "demonstrations_omitted": 0,
+        "chunk_size": 256,
+        "generated_tokens": 90,
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.81177304900001,
+        "terminated_with_eos": true
+      },
+      "peak_bytes": 7408311808
+    }
+  ],
+  "memory_check": {
+    "task_id": "05a7bcf2",
+    "valid": false,
+    "info": {
+      "prompt_tokens": 6526,
+      "orientation": 0,
+      "demonstrations_omitted": 0,
+      "chunk_size": 256,
+      "generated_tokens": 740,
+      "stop_reason": "decode deadline",
+      "elapsed_seconds": 150.13955334500002,
+      "terminated_with_eos": false,
+      "reason": "unfinished output"
+    },
+    "peak_bytes": 8766268416
+  },
+  "boundary": "Actual competition-input inference. Visible preview capped below ten minutes; official rerun capped below twelve hours. No solution files read. Functional and memory diagnostics do not establish accuracy or an official score."
+}

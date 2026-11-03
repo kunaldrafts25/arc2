@@ -1,0 +1,38 @@
+[
+  {
+    "ref": "arc-agi_evaluation_challenges.json",
+    "name": "arc-agi_evaluation_challenges.json",
+    "totalBytes": 984679,
+    "creationDate": "2026-03-10T16:17:02.950Z"
+  },
+  {
+    "ref": "arc-agi_evaluation_solutions.json",
+    "name": "arc-agi_evaluation_solutions.json",
+    "totalBytes": 223838,
+    "creationDate": "2026-03-10T16:17:03.028Z"
+  },
+  {
+    "ref": "arc-agi_test_challenges.json",
+    "name": "arc-agi_test_challenges.json",
+    "totalBytes": 1015295,
+    "creationDate": "2026-03-10T16:17:02.957Z"
+  },
+  {
+    "ref": "arc-agi_training_challenges.json",
+    "name": "arc-agi_training_challenges.json",
+    "totalBytes": 4010050,
+    "creationDate": "2026-03-10T16:17:02.961Z"
+  },
+  {
+    "ref": "arc-agi_training_solutions.json",
+    "name": "arc-agi_training_solutions.json",
+    "totalBytes": 658743,
+    "creationDate": "2026-03-10T16:17:03.047Z"
+  },
+  {
+    "ref": "sample_submission.json",
+    "name": "sample_submission.json",
+    "totalBytes": 19936,
+    "creationDate": "2026-03-10T16:17:03.124Z"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "correct_outputs": 281,
+    "test_outputs": 1076,
+    "score": 26.11524163568773
+  },
+  "shape_filter": {
+    "correct_outputs": 282,
+    "test_outputs": 1076,
+    "score": 26.20817843866171
+  },
+  "gained": [
+    {
+      "task_id": "d9fac9be",
+      "test_index": 0
+    }
+  ],
+  "lost": [],
+  "frozen_predictions_sha256": "209e83799f47b79671740a2745ca325b6f79a9f1fe251d4af8c658bd13caf575",
+  "union_oracle_correct_outputs": 282,
+  "union_oracle_total_outputs": 1076,
+  "boundary": "Public training-only analysis with a potentially contaminated checkpoint. Oracle uses target labels solely as a diagnostic upper bound. Shape selector uses demonstrations only. No held-out or official improvement; this policy is not in the submitted candidate."
+}

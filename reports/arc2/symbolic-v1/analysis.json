@@ -1,0 +1,12 @@
+{
+  "correct_outputs": 49,
+  "test_outputs": 1076,
+  "score": 4.553903345724907,
+  "tasks": 1000,
+  "elapsed_seconds": 15.672000000020489,
+  "seconds_per_task": 0.25,
+  "predictions_sha256": "d6b93417d23e08310d6025e18a6e9930fa687eccf912de47c6855522aba6e00d",
+  "tasks_with_consistent_program": 48,
+  "timed_out_tasks": 0,
+  "boundary": "Public training-task development measurement only. No held-out generalization or official score established."
+}

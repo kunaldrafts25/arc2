@@ -1,0 +1,11 @@
+{
+  "id": 472720,
+  "slug": "bfloat16",
+  "framework": "MODEL_FRAMEWORK_TRANSFORMERS",
+  "fineTunable": true,
+  "versionId": 627758,
+  "versionNumber": 1,
+  "url": "https://www.kaggle.com/models/sorokin/qwen3_4b_grids15_sft139/Transformers/bfloat16",
+  "licenseName": "Apache 2.0",
+  "totalUncompressedBytes": 7267271302
+}

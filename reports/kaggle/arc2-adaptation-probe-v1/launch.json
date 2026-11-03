@@ -1,0 +1,11 @@
+{
+  "kernel": "kunalsinghh03/arc-hydra-arc2-adaptation-probe/1",
+  "recorded_at": "2026-10-28T20:16:50.466723+00:00",
+  "files": {
+    "kernel-metadata.json": "80d16c477315f80cc57395fd445c9b29cd14ec97a7d860d54db5d85d5520a39a",
+    "submission.ipynb": "02b52096847ca72a8597b6f09b6d121eb89c90959b3798341d516148a86b253f"
+  },
+  "wall_seconds": 600,
+  "base_weights_frozen": true,
+  "training_data": "Task demonstration pairs only; no test target labels"
+}

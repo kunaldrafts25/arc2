@@ -1,0 +1,100 @@
+{
+  "checked_at": "2026-10-29T09:11:24.816932+00:00",
+  "competition": "arc-prize-2026-arc-agi-2",
+  "gpu_used_seconds": 107597.73,
+  "gpu_allowed_seconds": 108000.0,
+  "gpu_reserved_seconds": 0.0,
+  "gpu_available_seconds": 402.27,
+  "pay_to_scale_enabled": false,
+  "quota_refresh_time": "2026-10-31 00:00:00",
+  "submission_limits": {
+    "num_today": 1,
+    "num_total": 2,
+    "num_allowed_now": 0
+  },
+  "leaders": [
+    {
+      "team": "Tufa Labs",
+      "score": "88.06",
+      "date": "2026-10-27 08:43:22.713000"
+    },
+    {
+      "team": "Yi-Chia Chen @ Fields Model",
+      "score": "84.72",
+      "date": "2026-10-27 17:59:08.526000"
+    },
+    {
+      "team": "Domdolus Tolus",
+      "score": "83.47",
+      "date": "2026-10-28 00:07:45.013000"
+    },
+    {
+      "team": "nvbanana",
+      "score": "81.39",
+      "date": "2026-10-25 23:19:23.133000"
+    },
+    {
+      "team": "rabbithole",
+      "score": "80.83",
+      "date": "2026-10-27 16:23:44.863000"
+    }
+  ],
+  "competitions": [
+    {
+      "title": "ARC Prize 2026 - ARC-AGI-2",
+      "deadline": "2026-11-02 23:59:00"
+    }
+  ],
+  "submissions": [
+    {
+      "ref": 57765962,
+      "status": "PENDING",
+      "score": "",
+      "description": "ARC2 inference-only hybrid: symbolic consistency, identity/transpose, chunked prefill parity gate, coverage-first scheduling. Official accuracy unverified."
+    },
+    {
+      "ref": 57747726,
+      "status": "COMPLETE",
+      "score": "0.00",
+      "description": "ARC Hydra ARC2 CPU symbolic starting baseline; task-local demonstration-consistent search; no neural model"
+    }
+  ],
+  "pages": [
+    {
+      "name": "rules",
+      "characters": 37931
+    },
+    {
+      "name": "data-description",
+      "characters": 3657
+    },
+    {
+      "name": "Description",
+      "characters": 1260
+    },
+    {
+      "name": "Evaluation",
+      "characters": 1716
+    },
+    {
+      "name": "Timeline",
+      "characters": 547
+    },
+    {
+      "name": "Prizes",
+      "characters": 2458
+    },
+    {
+      "name": "Code Requirements",
+      "characters": 963
+    },
+    {
+      "name": "abstract",
+      "characters": 252
+    },
+    {
+      "name": "Upgraded Accelerators",
+      "characters": 910
+    }
+  ]
+}

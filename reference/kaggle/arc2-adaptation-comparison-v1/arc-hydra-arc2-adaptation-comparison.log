@@ -1,0 +1,31 @@
+[{"stream_name":"stderr","time":8.225884895,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.225944553,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.225949964,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.2259535,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.852113676,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.852142132,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.852146834,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.852151015,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":42.90226643,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":42.902294259,"data":"\n"}
+,{"stream_name":"stderr","time":42.902299414,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stdout","time":561.593451646,"data":"PAIRED_ADAPTATION_PROGRESS 5 50 551.574459658\n"}
+,{"stream_name":"stdout","time":960.325214651,"data":"PAIRED_ADAPTATION_PROGRESS 10 50 950.3019945389999\n"}
+,{"stream_name":"stdout","time":1495.173619186,"data":"PAIRED_ADAPTATION_PROGRESS 15 50 1485.134605572\n"}
+,{"stream_name":"stdout","time":2308.55148283,"data":"PAIRED_ADAPTATION_PROGRESS 20 50 2298.510672242\n"}
+,{"stream_name":"stdout","time":3540.536869502,"data":"PAIRED_ADAPTATION_PROGRESS 25 50 3530.5233582610003\n"}
+,{"stream_name":"stdout","time":3855.933695068,"data":"PAIRED_ADAPTATION_PROGRESS 30 50 3845.9117642059996\n"}
+,{"stream_name":"stdout","time":4529.78868885,"data":"PAIRED_ADAPTATION_PROGRESS 35 50 4519.760050891\n"}
+,{"stream_name":"stdout","time":5034.866380683,"data":"PAIRED_ADAPTATION_PROGRESS 40 50 5024.838061873999\n"}
+,{"stream_name":"stdout","time":6003.364534918,"data":"PAIRED_ADAPTATION_PROGRESS 45 50 5993.34015459\n"}
+,{"stream_name":"stdout","time":6464.494902895,"data":"PAIRED_ADAPTATION_PROGRESS 50 50 6454.483437475999\n"}
+,{"stream_name":"stdout","time":6465.029464184,"data":"ARC2_ADAPTATION_COMPARISON_COMPLETE {\"tasks\": 50, \"before\": {\"correct_outputs\": 19, \"test_outputs\": 51, \"score\": 37.254901960784316}, \"after\": {\"correct_outputs\": 17, \"test_outputs\": 51, \"score\": 33.333333333333336}, \"improved_outputs\": 0, \"worsened_outputs\": 2, \"elapsed_seconds\": 6455.021462938001, \"boundary\": \"Matched single deterministic pilot on 50 public training tasks. Pretraining may include these tasks; no unseen generalization, official improvement or statistical significance established.\"}\n"}
+,{"stream_name":"stderr","time":6471.071447599,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":6471.071511334,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":6471.278678758,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":6471.27872111,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":6472.101122992,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":6472.183213648,"data":"[NbConvertApp] Writing 39866 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":6474.81896925,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6475.361161099,"data":"[NbConvertApp] Writing 353660 bytes to __results__.html\n"}
+]

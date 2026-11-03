@@ -1,0 +1,9 @@
+{
+  "kernel": "kunalsinghh25/arc-hydra-arc2-symbolic-baseline/1",
+  "recorded_at": "2026-10-28T20:04:45.649183+00:00",
+  "files": {
+    "kernel-metadata.json": "3b6b9ea73768387fbc7cbafff7136ea7d90567d76d095bafb858a14de5043f6b",
+    "submission.ipynb": "98c59ad97506034c410dce2d551b5128652d4d51105dde205816d1a61cef8b6f"
+  },
+  "boundary": "Source package record; neither upload acceptance nor CPU checks establish a score improvement."
+}

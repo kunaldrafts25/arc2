@@ -1,0 +1,10 @@
+{
+  "kernel": "kunalsinghh25/arc-hydra-arc2-inference-hybrid",
+  "source_sha256": "6c2049a0bad7c4bf3ae497f07c81acd99154d51bf3cc782535f3c8172494189b",
+  "files": {
+    "kernel-metadata.json": "c45debb516e2dad0d271dfb4f520e8b95f699ac678a7c321d7624b47ea80764f",
+    "submission.ipynb": "d406bae3c3b9d24600310f50415fb766cd9e2940e34d2c69b783a647fb595391"
+  },
+  "preview_seconds": 560,
+  "official_seconds": 42600
+}

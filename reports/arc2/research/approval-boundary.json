@@ -1,0 +1,6 @@
+{
+  "action": "Download ARC-2 evaluation solution file",
+  "review_result": "rejected",
+  "reason": "Potential sensitive hidden-answer data not specifically authorized",
+  "safe_alternative": "Use permitted training data and official evaluations; do not access evaluation answers via alternate endpoint"
+}

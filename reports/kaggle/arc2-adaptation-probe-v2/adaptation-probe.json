@@ -1,0 +1,223 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "task_id": "00576224",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0634194016456604,
+          0.0633351057767868,
+          0.03999520093202591,
+          0.06248355656862259,
+          0.05897238105535507,
+          0.03405487537384033,
+          0.023884614929556847,
+          0.021299252286553383
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 7.718636555000046,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      },
+      "adapter_delta": 0.0004038663173560053,
+      "reset_delta": 0.0,
+      "valid_prediction": true,
+      "generation": {
+        "prompt_tokens": 114,
+        "generated_tokens": 42,
+        "orientation": 0,
+        "demonstrations_omitted": 0,
+        "elapsed_seconds": 4.600382079999974,
+        "terminated_with_eos": true
+      },
+      "prediction": [
+        [
+          3,
+          2,
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          7,
+          8,
+          7,
+          8,
+          7,
+          8
+        ],
+        [
+          2,
+          3,
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          8,
+          7,
+          8,
+          7,
+          8,
+          7
+        ],
+        [
+          3,
+          2,
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          7,
+          8,
+          7,
+          8,
+          7,
+          8
+        ]
+      ]
+    },
+    {
+      "task_id": "007bbfb7",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.05485394224524498,
+          0.048687081784009933,
+          0.04163975268602371,
+          0.049230460077524185,
+          0.04382699355483055,
+          0.04418143630027771,
+          0.03293892368674278,
+          0.03784851357340813
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.924268824999956,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      },
+      "adapter_delta": 0.0004038259503431618,
+      "reset_delta": 0.0,
+      "valid_prediction": true,
+      "generation": {
+        "prompt_tokens": 546,
+        "generated_tokens": 90,
+        "orientation": 0,
+        "demonstrations_omitted": 0,
+        "elapsed_seconds": 9.258279758000072,
+        "terminated_with_eos": true
+      },
+      "prediction": [
+        [
+          7,
+          0,
+          7,
+          0,
+          0,
+          0,
+          7,
+          0,
+          7
+        ],
+        [
+          7,
+          0,
+          7,
+          0,
+          0,
+          0,
+          7,
+          0,
+          7
+        ],
+        [
+          7,
+          7,
+          0,
+          0,
+          0,
+          0,
+          7,
+          7,
+          0
+        ],
+        [
+          7,
+          0,
+          7,
+          0,
+          0,
+          0,
+          7,
+          0,
+          7
+        ],
+        [
+          7,
+          0,
+          7,
+          0,
+          0,
+          0,
+          7,
+          0,
+          7
+        ],
+        [
+          7,
+          7,
+          0,
+          0,
+          0,
+          0,
+          7,
+          7,
+          0
+        ],
+        [
+          7,
+          0,
+          7,
+          7,
+          0,
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          7,
+          0,
+          7,
+          7,
+          0,
+          7,
+          0,
+          0,
+          0
+        ],
+        [
+          7,
+          7,
+          0,
+          7,
+          7,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    }
+  ],
+  "max_gpu_memory_bytes": 7845596160,
+  "elapsed_seconds": 83.24950266600001,
+  "boundary": "Actual GPU functional probe on two public training tasks. Only demonstration pairs used for adaptation; no test targets read. Not an accuracy comparison or official result."
+}

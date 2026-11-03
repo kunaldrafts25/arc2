@@ -1,0 +1,13 @@
+{
+  "scope": "Public training data only; no evaluation answers or test data",
+  "files": [
+    {
+      "name": "arc-agi_training_challenges.json",
+      "sha256": "779eaba89790ebad9af02514a7efc0aefaf2cf8236f046a31bbf8b9ec48f20f5"
+    },
+    {
+      "name": "arc-agi_training_solutions.json",
+      "sha256": "9f07a38bd25af5e83aa5bf85c5cb1a1fefdb30f6a755256fa65429e697ca97f9"
+    }
+  ]
+}

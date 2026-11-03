@@ -1,0 +1,10 @@
+# Exact resolved versions are recorded in requirements-lock.txt after setup.
+# Kaggle uses its attached competition wheels, not network installation.
+arc-agi==0.9.9
+arcengine==0.9.3
+python-dotenv>=1.2
+numpy>=2
+pandas>=2
+pyarrow>=18
+pytest>=8
+requests-mock>=1.12

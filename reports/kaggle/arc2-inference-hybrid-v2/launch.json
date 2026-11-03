@@ -1,0 +1,19 @@
+{
+  "phase": "accepted",
+  "checked_at": "2026-10-29T09:03:14.733805+00:00",
+  "available_gpu_seconds": 830.395,
+  "kernel": "kunalsinghh25/arc-hydra-arc2-inference-hybrid",
+  "source_sha256": "70346c5b9c2100d531c6b0b7253e209153cc81b0acdca35d1fbde8b63337a593",
+  "files": {
+    "kernel-metadata.json": "c45debb516e2dad0d271dfb4f520e8b95f699ac678a7c321d7624b47ea80764f",
+    "submission.ipynb": "410d471b631762576cdac3d7226e5ef0436240091cae9f441d30e0b8d94fec8f"
+  },
+  "preview_seconds": 500,
+  "official_seconds": 42600,
+  "response": {
+    "ref": "/code/kunalsinghh25/arc-hydra-arc2-inference-hybrid",
+    "url": "https://www.kaggle.com/code/kunalsinghh25/arc-hydra-arc2-inference-hybrid",
+    "versionNumber": 2,
+    "kernelId": 141478361
+  }
+}

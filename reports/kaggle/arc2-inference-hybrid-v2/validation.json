@@ -1,0 +1,17 @@
+{
+  "validated_at": "2026-10-29T09:10:55.625436+00:00",
+  "tasks": 240,
+  "test_outputs": 259,
+  "decoder": "chunked",
+  "valid_generations": 8,
+  "source_files": {
+    "kernel-metadata.json": "c45debb516e2dad0d271dfb4f520e8b95f699ac678a7c321d7624b47ea80764f",
+    "submission.ipynb": "410d471b631762576cdac3d7226e5ef0436240091cae9f441d30e0b8d94fec8f"
+  },
+  "output_files": {
+    "competition-run.json": "853f293fea62f212be788193df9fcb1fc367d87a7aa09b5e3619a0490c2acadc",
+    "inference-events.json": "8ca2b989dbef98d54bcee45977ad7e74119979960b59dcb169729634a4867535",
+    "submission.json": "69cefd058461b3fa988dccacae935074fd616a96cab79883f5691163b0835f54"
+  },
+  "boundary": "Functional GPU parity, long-context memory and format validation; no accuracy established. The long-context example may still hit its decode time limit."
+}

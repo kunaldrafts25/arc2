@@ -1,0 +1,20 @@
+{
+  "id": "kunalsinghh25/arc-hydra-arc2-inference-hybrid",
+  "title": "ARC Hydra ARC2 Inference Hybrid",
+  "code_file": "submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [],
+  "competition_sources": [
+    "arc-prize-2026-arc-agi-2"
+  ],
+  "kernel_sources": [],
+  "model_sources": [
+    "sorokin/qwen3_4b_grids15_sft139/Transformers/bfloat16/1"
+  ]
+}

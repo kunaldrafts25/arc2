@@ -1,0 +1,23 @@
+{
+  "tasks": 1000,
+  "scores": {
+    "neural": {
+      "correct_outputs": 258,
+      "test_outputs": 1076,
+      "score": 23.977695167286246
+    },
+    "symbolic": {
+      "correct_outputs": 49,
+      "test_outputs": 1076,
+      "score": 4.553903345724907
+    },
+    "hybrid": {
+      "correct_outputs": 281,
+      "test_outputs": 1076,
+      "score": 26.11524163568773
+    }
+  },
+  "generated_tokens": 473243,
+  "elapsed_seconds": 42602.438992284,
+  "boundary": "Public training development only; checkpoint may have trained on these tasks. Inference-only baseline, not NVARC TTT reproduction, held-out generalization or official score."
+}

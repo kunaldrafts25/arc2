@@ -1,0 +1,14 @@
+{
+  "kernel": "kunalsinghh03/arc-hydra-arc2-adaptation-comparison/1",
+  "recorded_at": "2026-10-28T20:26:37.045478+00:00",
+  "files": {
+    "kernel-metadata.json": "852e70e85d736259c2cc7b0134401a189536cacba26780e12b0f32f3cfd291ab",
+    "submission.ipynb": "9473212beb7619af25a87c87c145144db2304296455e1325d946b730c4c60ae9"
+  },
+  "tasks": 50,
+  "wall_seconds": 43200,
+  "training_labels_scope": "Public training targets opened only after before/after predictions frozen",
+  "official_score": null,
+  "observer_session": 86285,
+  "status_at_last_authoritative_check": "RUNNING"
+}

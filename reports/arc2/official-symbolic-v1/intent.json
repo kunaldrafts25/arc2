@@ -1,0 +1,9 @@
+{
+  "phase": "submitting",
+  "kernel": "kunalsinghh25/arc-hydra-arc2-symbolic-baseline/1",
+  "competition": "arc-prize-2026-arc-agi-2",
+  "recorded_at": "2026-10-28T20:02:45.415981+00:00",
+  "notebook_sha256": "98c59ad97506034c410dce2d551b5128652d4d51105dde205816d1a61cef8b6f",
+  "development_score": 4.553903345724907,
+  "boundary": "Public training-task baseline; no official score yet"
+}

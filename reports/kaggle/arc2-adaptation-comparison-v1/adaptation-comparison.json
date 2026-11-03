@@ -1,0 +1,1069 @@
+{
+  "tasks": 50,
+  "before": {
+    "correct_outputs": 19,
+    "test_outputs": 51,
+    "score": 37.254901960784316
+  },
+  "after": {
+    "correct_outputs": 17,
+    "test_outputs": 51,
+    "score": 33.333333333333336
+  },
+  "improved_outputs": 0,
+  "worsened_outputs": 2,
+  "elapsed_seconds": 6455.021462938001,
+  "events": [
+    {
+      "task_id": "00576224",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0634194016456604,
+          0.06359753012657166,
+          0.03964817896485329,
+          0.06205424293875694,
+          0.05967831611633301,
+          0.03266343101859093,
+          0.022647159174084663,
+          0.020842572674155235
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.5122777240000005,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "007bbfb7",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.05485394224524498,
+          0.048708848655223846,
+          0.04180840030312538,
+          0.049547746777534485,
+          0.04392673447728157,
+          0.04426826164126396,
+          0.033149559050798416,
+          0.03833309933543205
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.655470263999973,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "009d5c81",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.015524829737842083,
+          0.049371056258678436,
+          0.025095200166106224,
+          0.009813645854592323,
+          0.016839677467942238,
+          0.011030160821974277,
+          0.02032465860247612,
+          0.015471911057829857
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 9.012388400000077,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "00d62c1b",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.1316358596086502,
+          0.09327402710914612,
+          0.057807065546512604,
+          0.009695090353488922,
+          0.1950933188199997,
+          0.12397245317697525,
+          0.09181180596351624,
+          0.03569244593381882
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 7.198863785999947,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "00dbd492",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.030949827283620834,
+          0.03883581608533859,
+          0.027497360482811928,
+          0.04954710230231285,
+          0.022511249408125877,
+          0.04465688019990921,
+          0.023174840956926346,
+          0.03845081478357315
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 7.049028044000124,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "017c7c7b",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.3448510468006134,
+          0.3700462579727173,
+          0.361461341381073,
+          0.38099220395088196,
+          0.3389063775539398,
+          0.2858794927597046,
+          0.25952619314193726,
+          0.34269654750823975
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.753256633000092,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "025d127b",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0038497294299304485,
+          0.03515325114130974,
+          0.09842386096715927,
+          0.013753876090049744,
+          0.04999677464365959,
+          0.04712318256497383,
+          0.029593924060463905,
+          0.009122821502387524
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 6.015398389000211,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "03560426",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.06274119019508362,
+          0.0039011146873235703,
+          0.04443923756480217,
+          0.014835775829851627,
+          0.0025468587409704924,
+          0.07493453472852707,
+          0.00720824534073472,
+          0.010742001235485077
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.947372362000124,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "045e512c",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.027919597923755646,
+          0.01316321175545454,
+          0.05939812213182449,
+          0.03271164372563362,
+          0.009939205832779408,
+          0.0667182207107544,
+          0.02990257367491722,
+          0.020220467820763588
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 24.507842837999988,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0520fde7",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.5056190490722656,
+          0.6836438179016113,
+          0.6823593974113464,
+          0.798795223236084,
+          0.6951344013214111,
+          0.6055075526237488,
+          0.41380035877227783,
+          0.5921913981437683
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.822452225000006,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "05269061",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.1567717045545578,
+          0.07722906768321991,
+          0.06952809542417526,
+          0.10170137882232666,
+          0.044837214052677155,
+          0.08845840394496918,
+          0.09696429967880249,
+          0.12786409258842468
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.773629124000081,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "05a7bcf2",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0061442055739462376,
+          0.009209224954247475,
+          0.009210559539496899,
+          0.0022632379550486803,
+          0.002824230119585991,
+          0.008166451007127762,
+          0.002928017871454358,
+          0.0018130833050236106
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 64.30011914900001,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "05f2a901",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.05051916465163231,
+          0.031659580767154694,
+          0.04951436445116997,
+          0.04335932806134224,
+          0.022973569110035896,
+          0.03490816056728363,
+          0.04858525097370148,
+          0.02117942087352276
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.6601713219999965,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0607ce86",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0018762192921712995,
+          0.00013890421541873366,
+          0.0001423652865923941,
+          0.00019544005044735968,
+          9.706483979243785e-05,
+          0.00018881876894738525,
+          0.00020746799418702722,
+          9.356061127618887e-06
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 27.397102982999968,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0692e18c",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.036542680114507675,
+          0.018434716388583183,
+          0.027214735746383667,
+          0.013485594652593136,
+          0.009614567272365093,
+          0.02718026377260685,
+          0.004013064317405224,
+          0.005459690000861883
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.820977204999963,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "06df4c85",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.00022085798264015466,
+          0.00229678675532341,
+          0.00016120650980155915,
+          4.508843630901538e-05,
+          0.00023019516083877534,
+          2.189768747484777e-05,
+          2.812430466292426e-06,
+          1.0781838682305533e-05
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 28.192627526999786,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "070dd51e",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.001579044503159821,
+          0.001430719275958836,
+          0.004108338616788387,
+          0.0007374259294010699,
+          0.0008167579653672874,
+          0.0010938984341919422,
+          0.0004601385735440999,
+          0.00019223088747821748
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 23.221857727999577,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "08ed6ac7",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.2516649067401886,
+          0.21984878182411194,
+          0.1535235345363617,
+          0.1789480596780777,
+          0.16986048221588135,
+          0.2400936484336853,
+          0.11784970760345459,
+          0.12237674742937088
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.695853411999906,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "09629e4f",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.04989619180560112,
+          0.04142821580171585,
+          0.04492586478590965,
+          0.035683002322912216,
+          0.02653329260647297,
+          0.04363422840833664,
+          0.043787118047475815,
+          0.024395762011408806
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 6.745318946000225,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0962bcdd",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.007019008044153452,
+          0.010291142389178276,
+          0.002632977906614542,
+          0.003934637643396854,
+          0.0009251860901713371,
+          0.0019119847565889359,
+          0.00015700698713772,
+          8.071372576523572e-05
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 7.127504410999791,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "09c534e7",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.001661928603425622,
+          5.7915101933758706e-05,
+          3.0535647965734825e-05,
+          0.0008892701007425785,
+          5.9813333791680634e-05,
+          0.00019054359290748835,
+          3.1063038932188647e-06,
+          1.897737820399925e-05
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 36.93844260900005,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0a1d4ef5",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.00021209644910413772,
+          5.1663850172189996e-05,
+          6.753282650606707e-05,
+          1.102654823625926e-05,
+          8.682277439220343e-06,
+          0.039558395743370056,
+          2.63583319792815e-06,
+          1.4086404007684905e-05
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 24.831591226,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0a2355a6",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.046154774725437164,
+          0.0796956941485405,
+          0.07216998189687729,
+          0.06728004664182663,
+          0.06276301294565201,
+          0.08089546114206314,
+          0.03418176248669624,
+          0.03865370526909828
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 8.069315802999881,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0a938d79",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0598350465297699,
+          0.05848473682999611,
+          0.04994143545627594,
+          0.0484604686498642,
+          0.02474486269056797,
+          0.06255370378494263,
+          0.04421042278409004,
+          0.04039028659462929
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 9.932026512999983,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0b148d64",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.03248472884297371,
+          0.03697206452488899,
+          0.03328850492835045,
+          0.03478529676795006,
+          0.02593715488910675,
+          0.011830579489469528,
+          0.002165558049455285,
+          0.011903590522706509
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 11.417877083999883,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0b17323b",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.008714016526937485,
+          0.009349740110337734,
+          0.01638690195977688,
+          0.01911179907619953,
+          0.015018985606729984,
+          0.010502012446522713,
+          0.010227728635072708,
+          0.009204978123307228
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 10.451749343000301,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0bb8deee",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.005284436512738466,
+          0.018067745491862297,
+          0.005878747440874577,
+          0.00905285682529211,
+          0.0012927793432027102,
+          0.01599709875881672,
+          0.018184741958975792,
+          9.128791862167418e-05
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.260334182000406,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0becf7df",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.008740994147956371,
+          0.02335311844944954,
+          0.02932613156735897,
+          0.020064882934093475,
+          0.004784352146089077,
+          0.02654140628874302,
+          0.027951521798968315,
+          0.014558008871972561
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.986724149000111,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0c786b71",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0580005869269371,
+          0.06594550609588623,
+          0.06700611859560013,
+          0.07150813192129135,
+          0.05772863328456879,
+          0.07456409931182861,
+          0.05582890287041664,
+          0.04914369806647301
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.7306987120000485,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0c9aba6e",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.15631715953350067,
+          0.07232549041509628,
+          0.19070139527320862,
+          0.14329586923122406,
+          0.14831890165805817,
+          0.09645532816648483,
+          0.1675267368555069,
+          0.09394865483045578
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.9670800029998645,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0ca9ddb6",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.26373493671417236,
+          0.16750386357307434,
+          0.1871541142463684,
+          0.1990717500448227,
+          0.14059220254421234,
+          0.22003579139709473,
+          0.1324518918991089,
+          0.15275192260742188
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.695641674000399,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0d3d703e",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          1.0660274028778076,
+          1.2557547092437744,
+          1.5036941766738892,
+          1.4330929517745972,
+          1.5633076429367065,
+          0.9758830070495605,
+          1.2967658042907715,
+          1.309614658355713
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.729049622000275,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0d87d2a6",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.00045431620674207807,
+          3.475765652183327e-06,
+          8.675451681483537e-06,
+          7.788245420670137e-05,
+          3.418716005398892e-06,
+          2.698476919249515e-06,
+          2.0482235640884028e-07,
+          6.488261306003551e-07
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 13.917307159000302,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0e206a2e",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.03845224529504776,
+          0.06242118775844574,
+          0.027777448296546936,
+          0.06266243755817413,
+          0.045017536729574203,
+          0.03013269044458866,
+          0.040520910173654556,
+          0.037858378142118454
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 11.475697648000278,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0e671a1a",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.04976188763976097,
+          0.02437368407845497,
+          0.020504822954535484,
+          0.0460350327193737,
+          0.028004886582493782,
+          0.012030829675495625,
+          0.025340329855680466,
+          0.01667102426290512
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 8.130063431000053,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "0f63c0b9",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.006449407432228327,
+          0.0035900885704904795,
+          0.018264232203364372,
+          0.007748246192932129,
+          0.0015944268088787794,
+          0.015899626538157463,
+          0.00276379962451756,
+          0.0011656234273687005
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 10.897931438000342,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "103eff5b",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0013419605093076825,
+          0.0026388613041490316,
+          0.007345836143940687,
+          0.0018081532325595617,
+          0.004160167649388313,
+          0.009564826264977455,
+          0.008347920142114162,
+          0.0011004218831658363
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 15.127650923000147,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "10fcaaa3",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.2024291455745697,
+          0.37745627760887146,
+          0.16239306330680847,
+          0.3064779043197632,
+          0.19558659195899963,
+          0.35822224617004395,
+          0.17203058302402496,
+          0.21660739183425903
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.004600968999512,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "11852cab",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.005014890804886818,
+          0.001568417064845562,
+          0.06511072814464569,
+          0.006458653602749109,
+          0.0007933508022688329,
+          0.01650252379477024,
+          0.0048110755160450935,
+          0.0006427612970583141
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.980484355000044,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "1190bc91",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.04392237961292267,
+          0.054542627185583115,
+          0.5163345336914062,
+          0.01874096691608429,
+          0.006213190499693155,
+          0.4783649444580078,
+          0.0372004434466362,
+          0.020100822672247887
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.071179898999617,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "1190e5a7",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.015087798237800598,
+          0.004998753312975168,
+          0.006491469219326973,
+          0.22279344499111176,
+          0.0011157026747241616,
+          0.000451916828751564,
+          0.15002542734146118,
+          0.0023882677778601646
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 9.297760404000655,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "11dc524f",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.007995668798685074,
+          0.005706010386347771,
+          0.006238492205739021,
+          0.022432032972574234,
+          0.0019351296359673142,
+          0.021769359707832336,
+          0.0005641551688313484,
+          0.002678553806617856
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 8.297288020999986,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "11e1fe23",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.024331683292984962,
+          0.019700579345226288,
+          0.013285938650369644,
+          0.05870235711336136,
+          0.011528507806360722,
+          0.014449394308030605,
+          0.026291362941265106,
+          0.021958479657769203
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 6.627880016000745,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "12422b43",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.07290695607662201,
+          0.066400907933712,
+          0.12735573947429657,
+          0.17511935532093048,
+          0.10786949843168259,
+          0.08225282281637192,
+          0.07109029591083527,
+          0.11660512536764145
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.0729667969999355,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "12997ef3",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.0054512894712388515,
+          0.0243219044059515,
+          0.03225784748792648,
+          0.0021813050843775272,
+          0.0045135715045034885,
+          0.060968510806560516,
+          0.005627433303743601,
+          0.0005089392070658505
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 4.90372605399989,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "12eac192",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.4735654592514038,
+          0.2872638404369354,
+          1.2524100542068481,
+          0.16951912641525269,
+          0.3200874328613281,
+          0.22004660964012146,
+          0.9987934231758118,
+          0.14447520673274994
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.0487027139997736,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "13713586",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.011163893155753613,
+          0.009131401777267456,
+          0.003286305582150817,
+          0.004983301740139723,
+          0.0021947852801531553,
+          0.00035992421908304095,
+          0.0021231689024716616,
+          0.0011529580224305391
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 13.70461019600043,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "137eaa0f",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          1.0559219121932983,
+          0.7823886275291443,
+          0.5171907544136047,
+          0.4626542329788208,
+          0.5454823970794678,
+          0.5482802987098694,
+          0.871171236038208,
+          0.5994382500648499
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.34251077800036,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "137f0df0",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.043352361768484116,
+          0.055027078837156296,
+          0.05603106692433357,
+          0.08718128502368927,
+          0.0890028327703476,
+          0.05956451967358589,
+          0.03500667214393616,
+          0.05034185200929642
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 5.085670645000391,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    },
+    {
+      "task_id": "13f06aa5",
+      "adaptation": {
+        "steps_requested": 8,
+        "steps_completed": 8,
+        "losses": [
+          0.03726765885949135,
+          0.0452759824693203,
+          0.0007231000927276909,
+          0.017496269196271896,
+          0.025311946868896484,
+          0.0008584277820773423,
+          0.013059822842478752,
+          0.011238813400268555
+        ],
+        "stop_reason": "complete",
+        "elapsed_seconds": 8.056345986999986,
+        "trainable_parameters": 33030144,
+        "source": "Supplied demonstration input/output pairs only; no test targets"
+      }
+    }
+  ],
+  "boundary": "Matched single deterministic pilot on 50 public training tasks. Pretraining may include these tasks; no unseen generalization, official improvement or statistical significance established."
+}

@@ -1,0 +1,109 @@
+{
+  "checked_at": "2026-10-28T19:34:43.528542+00:00",
+  "account": "kunalsinghh25",
+  "token_file": "access_token",
+  "entered_competitions": [
+    {
+      "id": 133468,
+      "ref": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+      "title": "ARC Prize 2026 - ARC-AGI-3",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+      "description": "Create an AI capable of fluid intelligence",
+      "organizationName": "Abstraction and Reasoning Corpus",
+      "category": "Featured",
+      "reward": "850,000 Usd",
+      "tags": [
+        {
+          "ref": "artificial intelligence",
+          "name": "artificial intelligence",
+          "description": "This tag has datasets and kernels where people come together and use cutting-edge research to train models on pictures of cats.",
+          "fullPath": "subject > science and technology > computer science > artificial intelligence",
+          "competitionCount": 134,
+          "datasetCount": 5951,
+          "scriptCount": 4345,
+          "totalCount": 10430
+        },
+        {
+          "ref": "general knowledge and reasoning",
+          "name": "general knowledge and reasoning",
+          "description": "",
+          "fullPath": "task > evaluation > general-knowledge-and-reasoning",
+          "competitionCount": 4,
+          "datasetCount": 139,
+          "scriptCount": 78,
+          "totalCount": 221
+        },
+        {
+          "ref": "custom metric",
+          "name": "custom metric",
+          "description": "This competition's metric is defined under the 'Evaluation' tab",
+          "fullPath": ""
+        }
+      ],
+      "deadline": "2026-11-02T23:59:00.000Z",
+      "teamCount": 4940,
+      "userHasEntered": true,
+      "userRank": 1247,
+      "mergerDeadline": "2026-10-26T23:59:00.000Z",
+      "newEntrantDeadline": "2026-10-26T23:59:00.000Z",
+      "enabledDate": "2026-03-25T17:38:23.913Z",
+      "maxDailySubmissions": 1,
+      "maxTeamSize": 8,
+      "evaluationMetric": "ARC-AGI-3 Metric",
+      "awardsPoints": true,
+      "isKernelsSubmissionsOnly": true,
+      "hostName": "Abstraction and Reasoning Corpus",
+      "dateCreated": "2026-03-10T16:14:08.940Z",
+      "licenseName": "Apache 2.0"
+    },
+    {
+      "id": 133469,
+      "ref": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+      "title": "ARC Prize 2026 - ARC-AGI-2",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+      "description": "Create an AI capable of novel reasoning",
+      "organizationName": "Abstraction and Reasoning Corpus",
+      "category": "Featured",
+      "reward": "700,000 Usd",
+      "tags": [
+        {
+          "ref": "artificial intelligence",
+          "name": "artificial intelligence",
+          "description": "This tag has datasets and kernels where people come together and use cutting-edge research to train models on pictures of cats.",
+          "fullPath": "subject > science and technology > computer science > artificial intelligence",
+          "competitionCount": 134,
+          "datasetCount": 5951,
+          "scriptCount": 4345,
+          "totalCount": 10430
+        },
+        {
+          "ref": "custom metric",
+          "name": "custom metric",
+          "description": "This competition's metric is defined under the 'Evaluation' tab",
+          "fullPath": ""
+        }
+      ],
+      "deadline": "2026-11-02T23:59:00.000Z",
+      "teamCount": 3474,
+      "userHasEntered": true,
+      "mergerDeadline": "2026-10-26T23:59:00.000Z",
+      "newEntrantDeadline": "2026-10-26T23:59:00.000Z",
+      "enabledDate": "2026-03-25T17:38:19.547Z",
+      "maxDailySubmissions": 1,
+      "maxTeamSize": 5,
+      "evaluationMetric": "Abstraction and Reasoning Challenge",
+      "awardsPoints": true,
+      "isKernelsSubmissionsOnly": true,
+      "hostName": "Abstraction and Reasoning Corpus",
+      "dateCreated": "2026-03-10T16:17:00.992Z",
+      "licenseName": "Apache 2.0"
+    }
+  ],
+  "arc2_confirmed_entered": true,
+  "arc2_submission_limits": {
+    "num_today": 0,
+    "num_total": 0,
+    "num_allowed_now": 1,
+    "limited_by_total": false
+  }
+}

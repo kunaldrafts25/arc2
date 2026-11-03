@@ -1,0 +1,1014 @@
+{
+  "repository": "arc2",
+  "source_workspace": "D:/compi",
+  "included": [
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/.gitattributes",
+      "published_path": ".gitattributes",
+      "sha256": "ba866fff0191f9248f1b6a7fe1c7bacfa40a76836cd7453ccc31ac4b6f99c71d",
+      "bytes": 584,
+      "track": "shared",
+      "published_sha256": "ffe82f3c5b968ed009c2577fa38f32c83be167799ee565d40a18e3440c57b342",
+      "transformation": "Repository-specific entry point or Git attributes; original content preserved in combined workspace/history"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/.gitignore",
+      "published_path": ".gitignore",
+      "sha256": "762fcc1beecdf42d4d1414d7e197a94bc5254869df7e8bed0daa1813cf0b86ca",
+      "bytes": 2951,
+      "track": "shared",
+      "published_sha256": "521fbcd5ec80b37cc45c48fcd01ecf2c0f4a4e39da1f157a376b5513a4ef19c8",
+      "transformation": "Repository-specific entry point or Git attributes; original content preserved in combined workspace/history"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/LICENSE",
+      "published_path": "LICENSE",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+      "bytes": 11560,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/pytest.ini",
+      "published_path": "pytest.ini",
+      "sha256": "8fa307d1ef787f3822b949dc90f1b3c405769c4eb97bb2e813b271109d9d8a90",
+      "bytes": 57,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/requirements-deploy-lock.txt",
+      "published_path": "requirements-deploy-lock.txt",
+      "sha256": "9703e409f562255ef6f96806c1988c55ee5cc720d93a396ae73a97b79084217e",
+      "bytes": 1188,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/requirements-dev.txt",
+      "published_path": "requirements-dev.txt",
+      "sha256": "cafd9ed17cf08981cd6cbbfd304f47941e59bf8bcea969a0413a5e26c52baa5b",
+      "bytes": 262,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/requirements-lock.txt",
+      "published_path": "requirements-lock.txt",
+      "sha256": "3855284dc75897ae2bab0375936033c48fcfa1cb98d52cfc19e5bda6043de643",
+      "bytes": 732,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/THIRD_PARTY_NOTICES.md",
+      "published_path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "ed520432f6c79d75d0376588e037ebe9c39f9c2f2c415fb9bbe53b3155a54e82",
+      "bytes": 1954,
+      "track": "shared",
+      "published_sha256": "00c928f2f5e2cc5b26aab3c173f377c1875e48ba0bacd0cf28bd537468450af8",
+      "transformation": "ARC2-specific notices; original retained in combined repository"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/arc2/adaptation.py",
+      "published_path": "arc2/adaptation.py",
+      "sha256": "c63d42ebd8ad96c7a84609bf415d65b3a34030a73fcc11f3909b3fac7358fd0a",
+      "bytes": 4625,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/arc2/bounded_inference.py",
+      "published_path": "arc2/bounded_inference.py",
+      "sha256": "4d6dad10280acc9f6495d1695a48c40d06ec912d2f7074dc6c70aa66b854f85a",
+      "bytes": 6376,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/arc2/evaluation.py",
+      "published_path": "arc2/evaluation.py",
+      "sha256": "e76c9a5435eb71eb61745c49286805c34f936b77aaff37db74b84f3941a4cfea",
+      "bytes": 1548,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/arc2/neural.py",
+      "published_path": "arc2/neural.py",
+      "sha256": "3b53e098749c740ceb22670f007c178048e10fe5ebb9d1b6215499d81055d3c9",
+      "bytes": 5168,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/arc2/symbolic.py",
+      "published_path": "arc2/symbolic.py",
+      "sha256": "3eb94cfc6feab8250c6b0747e069d21be5aeebcc2357d12b05bb4ab472c07765",
+      "bytes": 7566,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/arc2/__init__.py",
+      "published_path": "arc2/__init__.py",
+      "sha256": "7e75b72159ffc3420b13197829340356f9afa48cab85f1cfbeceb713d236418c",
+      "bytes": 78,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/docs/arc2_baseline.md",
+      "published_path": "docs/arc2_baseline.md",
+      "sha256": "5c8d774cdd721f528b5c3aece878f1461d07460522df282c366aa010110894f5",
+      "bytes": 9825,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/docs/arc2_inference_research_2026_10_29.md",
+      "published_path": "docs/arc2_inference_research_2026_10_29.md",
+      "sha256": "c74db662c1603bfa0ec86aab2fce8e3e74e7881bb3dce6c82f2299bf38c96db0",
+      "bytes": 3682,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/docs/licenses/ARC-Prize-MIT.txt",
+      "published_path": "docs/licenses/ARC-Prize-MIT.txt",
+      "sha256": "d3f580d1aeb46a801279029bd5f06d099a6dcac0cd304dcf61acaed933e8cc40",
+      "bytes": 1085,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_adaptation_comparison/kernel-metadata.json",
+      "published_path": "notebooks/arc2_adaptation_comparison/kernel-metadata.json",
+      "sha256": "852e70e85d736259c2cc7b0134401a189536cacba26780e12b0f32f3cfd291ab",
+      "bytes": 577,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_adaptation_comparison/submission.ipynb",
+      "published_path": "notebooks/arc2_adaptation_comparison/submission.ipynb",
+      "sha256": "9473212beb7619af25a87c87c145144db2304296455e1325d946b730c4c60ae9",
+      "bytes": 24926,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_adaptation_probe/kernel-metadata.json",
+      "published_path": "notebooks/arc2_adaptation_probe/kernel-metadata.json",
+      "sha256": "80d16c477315f80cc57395fd445c9b29cd14ec97a7d860d54db5d85d5520a39a",
+      "bytes": 567,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_adaptation_probe/submission.ipynb",
+      "published_path": "notebooks/arc2_adaptation_probe/submission.ipynb",
+      "sha256": "7c1b4ba2445ec3f83b9268bfe11a76e9a105d73c74438042f9f9d97188c2dbe0",
+      "bytes": 22194,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_inference_hybrid/kernel-metadata.json",
+      "published_path": "notebooks/arc2_inference_hybrid/kernel-metadata.json",
+      "sha256": "c45debb516e2dad0d271dfb4f520e8b95f699ac678a7c321d7624b47ea80764f",
+      "bytes": 545,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_inference_hybrid/manifest.json",
+      "published_path": "notebooks/arc2_inference_hybrid/manifest.json",
+      "sha256": "62a5eab92f075bc8f2e1b494594213b04f14da013c02597ef02f374512cad607",
+      "bytes": 421,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_inference_hybrid/submission.ipynb",
+      "published_path": "notebooks/arc2_inference_hybrid/submission.ipynb",
+      "sha256": "d406bae3c3b9d24600310f50415fb766cd9e2940e34d2c69b783a647fb595391",
+      "bytes": 27094,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_inference_hybrid_v2/kernel-metadata.json",
+      "published_path": "notebooks/arc2_inference_hybrid_v2/kernel-metadata.json",
+      "sha256": "c45debb516e2dad0d271dfb4f520e8b95f699ac678a7c321d7624b47ea80764f",
+      "bytes": 545,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_inference_hybrid_v2/manifest.json",
+      "published_path": "notebooks/arc2_inference_hybrid_v2/manifest.json",
+      "sha256": "d6bb5dbfc52f88771dc88f1e781fb7c34ca86344e75b05612d373d805bdd148d",
+      "bytes": 421,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_inference_hybrid_v2/submission.ipynb",
+      "published_path": "notebooks/arc2_inference_hybrid_v2/submission.ipynb",
+      "sha256": "410d471b631762576cdac3d7226e5ef0436240091cae9f441d30e0b8d94fec8f",
+      "bytes": 27625,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_neural_development/kernel-metadata.json",
+      "published_path": "notebooks/arc2_neural_development/kernel-metadata.json",
+      "sha256": "70d28fe19eabbd3b911e74a3a839f19c4f8662d1d70a5d4ffd328fa5c728b3d6",
+      "bytes": 571,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_neural_development/submission.ipynb",
+      "published_path": "notebooks/arc2_neural_development/submission.ipynb",
+      "sha256": "18549f7b32129a53b7222f7f696182c05f15dc62a30d8ac42a6cc3a42ffb5f27",
+      "bytes": 20857,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_symbolic_baseline/kernel-metadata.json",
+      "published_path": "notebooks/arc2_symbolic_baseline/kernel-metadata.json",
+      "sha256": "3b6b9ea73768387fbc7cbafff7136ea7d90567d76d095bafb858a14de5043f6b",
+      "bytes": 444,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/arc2_symbolic_baseline/submission.ipynb",
+      "published_path": "notebooks/arc2_symbolic_baseline/submission.ipynb",
+      "sha256": "98c59ad97506034c410dce2d551b5128652d4d51105dde205816d1a61cef8b6f",
+      "bytes": 12668,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/gpu_capability_probe/kernel-metadata.json",
+      "published_path": "notebooks/gpu_capability_probe/kernel-metadata.json",
+      "sha256": "5b399788c3995edc248dea54dbb3ab1d05c91ea3a0c72fce7d8abb26708e8d2f",
+      "bytes": 440,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/notebooks/gpu_capability_probe/submission.ipynb",
+      "published_path": "notebooks/gpu_capability_probe/submission.ipynb",
+      "sha256": "22ef94038afc6e9cab4183f21b92e62280b847f17f8047ee3af63e7424fa8e50",
+      "bytes": 1127,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/files.json",
+      "published_path": "reference/arc2/files.json",
+      "sha256": "e93e68558fc78279a998fd1a68770388cae328c7b9628d5a06acf5f2a7cdc27f",
+      "bytes": 1078,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/pages.json",
+      "published_path": "reference/arc2/pages.json",
+      "sha256": "a444a89b8a4dbf9889d43e2d534a735d5903014c4075b25bf340cbeef3b3391a",
+      "bytes": 51036,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/shape-filter-development-predictions.json",
+      "published_path": "reference/arc2/shape-filter-development-predictions.json",
+      "sha256": "209e83799f47b79671740a2745ca325b6f79a9f1fe251d4af8c658bd13caf575",
+      "bytes": 1588120,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/data/arc-agi_training_challenges.json",
+      "published_path": "reference/arc2/data/arc-agi_training_challenges.json",
+      "sha256": "779eaba89790ebad9af02514a7efc0aefaf2cf8236f046a31bbf8b9ec48f20f5",
+      "bytes": 4010050,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/data/arc-agi_training_solutions.json",
+      "published_path": "reference/arc2/data/arc-agi_training_solutions.json",
+      "sha256": "9f07a38bd25af5e83aa5bf85c5cb1a1fefdb30f6a755256fa65429e697ca97f9",
+      "bytes": 658743,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/data/sample_submission.json",
+      "published_path": "reference/arc2/data/sample_submission.json",
+      "sha256": "6b372dce41ad86a941ccdcbebb2b1926fd4f011d77c824ff421d77730f169a9a",
+      "bytes": 19936,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/nvarc-inference/arc2-qwen3-unsloth-flash-lora-batch4-queue.ipynb",
+      "published_path": "reference/arc2/nvarc-inference/arc2-qwen3-unsloth-flash-lora-batch4-queue.ipynb",
+      "sha256": "506b85db66f9949022e87935ccb06a73fd78cb690883bd600bfb5c7d36c2b3af",
+      "bytes": 38975,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/nvarc-inference/kernel-metadata.json",
+      "published_path": "reference/arc2/nvarc-inference/kernel-metadata.json",
+      "sha256": "359560111069763138bc229337092e7ac19ee5738bf3ae1b9f75f552b330c288",
+      "bytes": 812,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/nvarc-inference/source.py",
+      "published_path": "reference/arc2/nvarc-inference/source.py",
+      "sha256": "e2c2c632c91d2b2738290cea1d722e2867a306540d4f6214027f9adfd03923e2",
+      "bytes": 37010,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/public-baseline/arc-agi-2-solution-v2.ipynb",
+      "published_path": "reference/arc2/public-baseline/arc-agi-2-solution-v2.ipynb",
+      "sha256": "d80acd6a7ca6411e2c734722115aa85d6772f96e81cf3dbe941f4b28f83b81e2",
+      "bytes": 93210,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/public-baseline/kernel-metadata.json",
+      "published_path": "reference/arc2/public-baseline/kernel-metadata.json",
+      "sha256": "361eb5547353aea4621e0a409949959baf7a5c550ac6b02641c849999b76c8a7",
+      "bytes": 820,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/public-baseline/model-metadata.json",
+      "published_path": "reference/arc2/public-baseline/model-metadata.json",
+      "sha256": "941c9c4d35f67cfd8922ecd8556a5011e4aec94a04846779b1a30daf2d6fc041",
+      "bytes": 332,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/public-baseline/source.py",
+      "published_path": "reference/arc2/public-baseline/source.py",
+      "sha256": "e3a0511f02e2a2a73459ef7bc957a24e62a05e64ecd5f7536d6980cbd2a76e20",
+      "bytes": 86346,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/training-development/arc-agi_training_challenges.json",
+      "published_path": "reference/arc2/training-development/arc-agi_training_challenges.json",
+      "sha256": "779eaba89790ebad9af02514a7efc0aefaf2cf8236f046a31bbf8b9ec48f20f5",
+      "bytes": 4010050,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/training-development/arc-agi_training_solutions.json",
+      "published_path": "reference/arc2/training-development/arc-agi_training_solutions.json",
+      "sha256": "9f07a38bd25af5e83aa5bf85c5cb1a1fefdb30f6a755256fa65429e697ca97f9",
+      "bytes": 658743,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/training-development/dataset-metadata.json",
+      "published_path": "reference/arc2/training-development/dataset-metadata.json",
+      "sha256": "f67ac726970503ef1f6dab8bfce9c904d7b8472cbe00694f3edbe2e296a280ee",
+      "bytes": 432,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/arc2/training-development/manifest.json",
+      "published_path": "reference/arc2/training-development/manifest.json",
+      "sha256": "3a04328d427d628999f1863bdfb16d68bde5ed94dd964fc56cb925dfbaa490f3",
+      "bytes": 400,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-adaptation-comparison-v1/adaptation-comparison.json",
+      "published_path": "reference/kaggle/arc2-adaptation-comparison-v1/adaptation-comparison.json",
+      "sha256": "a195d0eb1ca99c0442dc1ddf07b67f5c32be1a12ee0cc50fe4088ab08034c3bf",
+      "bytes": 31624,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-adaptation-comparison-v1/after-predictions.json",
+      "published_path": "reference/kaggle/arc2-adaptation-comparison-v1/after-predictions.json",
+      "sha256": "b1a3303e0334390cd49415db9f51061c0a63e2ca1f70a169e007bf672867c2d9",
+      "bytes": 88169,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-adaptation-comparison-v1/arc-hydra-arc2-adaptation-comparison.log",
+      "published_path": "reference/kaggle/arc2-adaptation-comparison-v1/arc-hydra-arc2-adaptation-comparison.log",
+      "sha256": "4bc996b0bada98f93c38992e89a33ac73fa6ed5b20fefa22c97d4173b53f0d01",
+      "bytes": 4118,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-adaptation-comparison-v1/before-predictions.json",
+      "published_path": "reference/kaggle/arc2-adaptation-comparison-v1/before-predictions.json",
+      "sha256": "039f29b981576a52b1394d55a17ff6853fdb3dddf4e5f525bdad7f396a9747d0",
+      "bytes": 87099,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-inference-hybrid-v1/arc-hydra-arc2-inference-hybrid.log",
+      "published_path": "reference/kaggle/arc2-inference-hybrid-v1/arc-hydra-arc2-inference-hybrid.log",
+      "sha256": "ea8c92cf4ddead3d3685512aaab0831c4e869f8fa06f05db7c1128032409223b",
+      "bytes": 6159,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-inference-hybrid-v1/competition-run.json",
+      "published_path": "reference/kaggle/arc2-inference-hybrid-v1/competition-run.json",
+      "sha256": "55218937fafbfe24f7faf104a5e8ad19c5b21e945d455be517202b3e1b423101",
+      "bytes": 2186,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-inference-hybrid-v1/inference-events.json",
+      "published_path": "reference/kaggle/arc2-inference-hybrid-v1/inference-events.json",
+      "sha256": "e4087945ab7ddee37276bee8f170f9e5607b18cc5767289a14091574976c2a56",
+      "bytes": 1995,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-inference-hybrid-v1/submission.json",
+      "published_path": "reference/kaggle/arc2-inference-hybrid-v1/submission.json",
+      "sha256": "69cefd058461b3fa988dccacae935074fd616a96cab79883f5691163b0835f54",
+      "bytes": 383051,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-inference-hybrid-v2/arc-hydra-arc2-inference-hybrid.log",
+      "published_path": "reference/kaggle/arc2-inference-hybrid-v2/arc-hydra-arc2-inference-hybrid.log",
+      "sha256": "6428de987a1e47525689e985bc8250323403ecd5185a81d2a22062bd19f08c08",
+      "bytes": 6081,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-inference-hybrid-v2/competition-run.json",
+      "published_path": "reference/kaggle/arc2-inference-hybrid-v2/competition-run.json",
+      "sha256": "853f293fea62f212be788193df9fcb1fc367d87a7aa09b5e3619a0490c2acadc",
+      "bytes": 2136,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-inference-hybrid-v2/inference-events.json",
+      "published_path": "reference/kaggle/arc2-inference-hybrid-v2/inference-events.json",
+      "sha256": "8ca2b989dbef98d54bcee45977ad7e74119979960b59dcb169729634a4867535",
+      "bytes": 1993,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-inference-hybrid-v2/submission.json",
+      "published_path": "reference/kaggle/arc2-inference-hybrid-v2/submission.json",
+      "sha256": "69cefd058461b3fa988dccacae935074fd616a96cab79883f5691163b0835f54",
+      "bytes": 383051,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-neural-development-v1/arc-hydra-arc2-neural-development.log",
+      "published_path": "reference/kaggle/arc2-neural-development-v1/arc-hydra-arc2-neural-development.log",
+      "sha256": "705c47674acf2e1b5f2e19b3493bceafb1f4401c4b919af4b6bf26956e9018b8",
+      "bytes": 39235,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-neural-development-v1/hybrid-predictions.json",
+      "published_path": "reference/kaggle/arc2-neural-development-v1/hybrid-predictions.json",
+      "sha256": "9efb8a72df80319b858fb56ede3e15c23feb17a3af0e59d5b8c6febb88ff089f",
+      "bytes": 1695137,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-neural-development-v1/neural-development-metrics.json",
+      "published_path": "reference/kaggle/arc2-neural-development-v1/neural-development-metrics.json",
+      "sha256": "d74a307159915d5506a0d101f8a2c85791c357ef23ab53cd9ed9dc2c12a857d7",
+      "bytes": 640,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-neural-development-v1/neural-events.json",
+      "published_path": "reference/kaggle/arc2-neural-development-v1/neural-events.json",
+      "sha256": "aa98683efe1f253964e8ee22be5dd45c6687ffdcf4697cd0397b8af009d16939",
+      "bytes": 401768,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-neural-development-v1/neural-predictions.json",
+      "published_path": "reference/kaggle/arc2-neural-development-v1/neural-predictions.json",
+      "sha256": "791d8b0c67654ab4be8c4aca0a395ad300b90fd9c91916905886191a297555fc",
+      "bytes": 1706711,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reference/kaggle/arc2-neural-development-v1/symbolic-predictions.json",
+      "published_path": "reference/kaggle/arc2-neural-development-v1/symbolic-predictions.json",
+      "sha256": "d6b93417d23e08310d6025e18a6e9930fa687eccf912de47c6855522aba6e00d",
+      "bytes": 1554209,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/continuation-2026-10-29.md",
+      "published_path": "reports/arc2/continuation-2026-10-29.md",
+      "sha256": "6c109760eae968ff8ffe43c18afd3e43dd8123f7581ee9fed0498831c918b814",
+      "bytes": 3634,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/candidate-analysis-v1/analysis.json",
+      "published_path": "reports/arc2/candidate-analysis-v1/analysis.json",
+      "sha256": "1f386789c2cd1fa80277f767346f6595cd2721b74bf6ee53f94685095969661e",
+      "bytes": 792,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/completed-development-v1/audit.json",
+      "published_path": "reports/arc2/completed-development-v1/audit.json",
+      "sha256": "3902ee2b07b0b602e0ee3e2db625de931ab115afb547c587ec6fc766913101d9",
+      "bytes": 2620,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/current-state/pages.json",
+      "published_path": "reports/arc2/current-state/pages.json",
+      "sha256": "a444a89b8a4dbf9889d43e2d534a735d5903014c4075b25bf340cbeef3b3391a",
+      "bytes": 51036,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/current-state/state.json",
+      "published_path": "reports/arc2/current-state/state.json",
+      "sha256": "28a2e4798ad341bef976d13cf920bbba341e9effde22fc5745521fa705c52657",
+      "bytes": 2329,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/inference-diagnostics-v1/diagnosis.json",
+      "published_path": "reports/arc2/inference-diagnostics-v1/diagnosis.json",
+      "sha256": "40d698a0b94e841b8a86c1902bb4b9f6d66cb5d3c66a5ff5a14c1b821212d780",
+      "bytes": 7310,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/official-symbolic-v1/evaluation.json",
+      "published_path": "reports/arc2/official-symbolic-v1/evaluation.json",
+      "sha256": "4ae6dcbcde958195df3e20a8f56221f811a35f6ee894e76863bf8f33d04f2b0c",
+      "bytes": 205,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/official-symbolic-v1/intent.json",
+      "published_path": "reports/arc2/official-symbolic-v1/intent.json",
+      "sha256": "747929d93990aaf76a706b18208e1292c3f93f28ae8f485cddd4e42cc496ae53",
+      "bytes": 398,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/official-symbolic-v1/status.json",
+      "published_path": "reports/arc2/official-symbolic-v1/status.json",
+      "sha256": "f91ec93ccc2cd46be0392f7d4187be9fbb88c5a163dfcdafdab1dc78ebbb8cf9",
+      "bytes": 429,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/research/approval-boundary.json",
+      "published_path": "reports/arc2/research/approval-boundary.json",
+      "sha256": "2c1c199db619cc498e2833c1d8624448bb2e4ad2e7d06b62da4cc0d39036f650",
+      "bytes": 312,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/research/model-metadata.json",
+      "published_path": "reports/arc2/research/model-metadata.json",
+      "sha256": "941c9c4d35f67cfd8922ecd8556a5011e4aec94a04846779b1a30daf2d6fc041",
+      "bytes": 332,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/research/source-manifest.json",
+      "published_path": "reports/arc2/research/source-manifest.json",
+      "sha256": "e103a828cd4a613c16bae96f7cb525b0943c5fbd560d5302258c4931bf3d8621",
+      "bytes": 371,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/symbolic-v1/analysis.json",
+      "published_path": "reports/arc2/symbolic-v1/analysis.json",
+      "sha256": "4f969e181f00cef27e758d0afda3f3f16309ec96897a7a595df2ed2dfb1f134c",
+      "bytes": 461,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/symbolic-v1/per-output.json",
+      "published_path": "reports/arc2/symbolic-v1/per-output.json",
+      "sha256": "149b62b478e67e1ef401a6a89e91579aad3866da6d70fef60fa24a670947c06f",
+      "bytes": 89264,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/symbolic-v1/predictions.json",
+      "published_path": "reports/arc2/symbolic-v1/predictions.json",
+      "sha256": "d6b93417d23e08310d6025e18a6e9930fa687eccf912de47c6855522aba6e00d",
+      "bytes": 1554209,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/arc2/symbolic-v1/search-events.json",
+      "published_path": "reports/arc2/symbolic-v1/search-events.json",
+      "sha256": "1349faad41ae9891c1e617fe03bc57c46669e04bed882fb33ef6cc5d0c5ece3a",
+      "bytes": 183644,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-eligibility.json",
+      "published_path": "reports/kaggle/arc2-eligibility.json",
+      "sha256": "69b147711ffaee715b37811db9e3706cd1870f5d0cde9f64d73268a0216695b2",
+      "bytes": 4246,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-comparison-v1/adaptation-comparison.json",
+      "published_path": "reports/kaggle/arc2-adaptation-comparison-v1/adaptation-comparison.json",
+      "sha256": "a195d0eb1ca99c0442dc1ddf07b67f5c32be1a12ee0cc50fe4088ab08034c3bf",
+      "bytes": 31624,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-comparison-v1/launch.json",
+      "published_path": "reports/kaggle/arc2-adaptation-comparison-v1/launch.json",
+      "sha256": "b7c9550a854ff3891cadbe2f43df20eea17eea91e2b447855c3e7fbd8930864e",
+      "bytes": 593,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-comparison-v1/watcher.log",
+      "published_path": "reports/kaggle/arc2-adaptation-comparison-v1/watcher.log",
+      "sha256": "f39c4d04ad2221832fad8a18475c7080c7eacbf897677b717fa43a321f8fabab",
+      "bytes": 11234,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-probe-v1/launch.json",
+      "published_path": "reports/kaggle/arc2-adaptation-probe-v1/launch.json",
+      "sha256": "72761c395e35adf0b33327d8e429f6652f2b30df28475b5f38a282924dcca7b4",
+      "bytes": 464,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-probe-v1/watcher.log",
+      "published_path": "reports/kaggle/arc2-adaptation-probe-v1/watcher.log",
+      "sha256": "448f690d4a5cc4a3426470e5e97bc7bbbdac24c24ee3a0f3d26a76be40b1ab12",
+      "bytes": 31206,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-probe-v2/adaptation-probe.json",
+      "published_path": "reports/kaggle/arc2-adaptation-probe-v2/adaptation-probe.json",
+      "sha256": "697be623b15a03611ffef298a4cdba62a627453168221044e3caf6e5eae50dfa",
+      "bytes": 4106,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-probe-v2/arc-hydra-arc2-adaptation-probe.log",
+      "published_path": "reports/kaggle/arc2-adaptation-probe-v2/arc-hydra-arc2-adaptation-probe.log",
+      "sha256": "cbc0fcf94b1512fb2231d5479a435804a856a2eea2f6d3e72c12f7b99418717e",
+      "bytes": 7030,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-probe-v2/upload.json",
+      "published_path": "reports/kaggle/arc2-adaptation-probe-v2/upload.json",
+      "sha256": "a03c1333bbe20ec5b86b5802aa63fec6b7b5e2f618f3682ed8f7ac50da274bb1",
+      "bytes": 465,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-adaptation-probe-v2/watcher.log",
+      "published_path": "reports/kaggle/arc2-adaptation-probe-v2/watcher.log",
+      "sha256": "be456194216d46087ff02947a971a1d86be2be025e36eff3bb66435f7f70c7fc",
+      "bytes": 11338,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v1/competition-run.json",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v1/competition-run.json",
+      "sha256": "16a4e317e1c33653a300e5bccaad201fc2136e6b074227a756c1005cc9081f8f",
+      "bytes": 2264,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v1/launch.json",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v1/launch.json",
+      "sha256": "94b62d5b6615be2922f3c8b89c31eb6c1a6c55820cb8a7869b53b6e73d6c34bf",
+      "bytes": 767,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v1/validation.json",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v1/validation.json",
+      "sha256": "af19d7cd6a0dc1594d0ec0572deb98762834c167dcffc66ee318d7ceda3cba0d",
+      "bytes": 853,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v2/competition-run.json",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v2/competition-run.json",
+      "sha256": "fc4162b71ec54179c8fb4f205aeed570c3a3148927c3e30cba1ba5624fe0f573",
+      "bytes": 2213,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v2/launch.json",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v2/launch.json",
+      "sha256": "a9235c60870e2c1d143db01481b6901a9dde65961774b2a66d4d0b1773aed2a9",
+      "bytes": 766,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v2/observer-error.log",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v2/observer-error.log",
+      "sha256": "c9ddf67d29783687b160b38c03b88bd4b348b3d21d95e82de4a7a4f0664b28b5",
+      "bytes": 2756,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v2/observer.log",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v2/observer.log",
+      "sha256": "556513b6ac76d43f7774b09cf3b283be9736db1b46a6679a706be7c8c4007c10",
+      "bytes": 20502,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v2/official-history.jsonl",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v2/official-history.jsonl",
+      "sha256": "556513b6ac76d43f7774b09cf3b283be9736db1b46a6679a706be7c8c4007c10",
+      "bytes": 20502,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v2/official-status.json",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v2/official-status.json",
+      "sha256": "e32c5d8335647c9426a7bd377b5046dba82e2b1253473776d42266596d7ff37f",
+      "bytes": 152,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v2/official-submission.json",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v2/official-submission.json",
+      "sha256": "a4d26aa696769f48be627511080b7a00954f1eddd53444c6296705140429edb0",
+      "bytes": 1249,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-inference-hybrid-v2/validation.json",
+      "published_path": "reports/kaggle/arc2-inference-hybrid-v2/validation.json",
+      "sha256": "d6487c61a2a507f39549be75f7867f9a49c936443c7a8d23611ba6b4a4a8dee2",
+      "bytes": 853,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-neural-development-v1/launch.json",
+      "published_path": "reports/kaggle/arc2-neural-development-v1/launch.json",
+      "sha256": "7f5e43a782b69c6d5a182f6e5dbda7535fba2abf9c128126304da7d1b7ec17ca",
+      "bytes": 529,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-neural-development-v1/neural-development-metrics.json",
+      "published_path": "reports/kaggle/arc2-neural-development-v1/neural-development-metrics.json",
+      "sha256": "d74a307159915d5506a0d101f8a2c85791c357ef23ab53cd9ed9dc2c12a857d7",
+      "bytes": 640,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-neural-development-v1/watcher.log",
+      "published_path": "reports/kaggle/arc2-neural-development-v1/watcher.log",
+      "sha256": "6a7ed011823039326f95e319bed6f613aec508958a1d41e3bff969feaa32020c",
+      "bytes": 50502,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-symbolic-v1/arc-hydra-arc2-symbolic-baseline.log",
+      "published_path": "reports/kaggle/arc2-symbolic-v1/arc-hydra-arc2-symbolic-baseline.log",
+      "sha256": "20903419782cda8e9be8ee04ed6ae997de98486eabc94962e3f6a4ea3452aa43",
+      "bytes": 2441,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-symbolic-v1/arc2-run-metrics.json",
+      "published_path": "reports/kaggle/arc2-symbolic-v1/arc2-run-metrics.json",
+      "sha256": "1a2ba1cfca314fb90258766c9590f83d5ec5e873fe2fbf9d580ad02b10bee5b2",
+      "bytes": 234,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-symbolic-v1/arc2-search-events.json",
+      "published_path": "reports/kaggle/arc2-symbolic-v1/arc2-search-events.json",
+      "sha256": "9261a14db9977bcaddce3337795c849ae2518d166e97dc813afb463a8841dfe0",
+      "bytes": 35522,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-symbolic-v1/launch.json",
+      "published_path": "reports/kaggle/arc2-symbolic-v1/launch.json",
+      "sha256": "094cd8968f4b4bd3c37c79c8051c33bea73aa832770d222748e434964ff81825",
+      "bytes": 446,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-symbolic-v1/schema-audit.json",
+      "published_path": "reports/kaggle/arc2-symbolic-v1/schema-audit.json",
+      "sha256": "060690d03d984c8c5b0b71a16710ee8e68939fb786a84a387f44a0f7c9ffdf03",
+      "bytes": 259,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/arc2-symbolic-v1/submission.json",
+      "published_path": "reports/kaggle/arc2-symbolic-v1/submission.json",
+      "sha256": "3602d6b76029c874966b943f5b2cf5fe34142887d843c056ab3405618fb5ea86",
+      "bytes": 382719,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/gpu-capability-probe-v1/arc-hydra-gpu-capability-probe.log",
+      "published_path": "reports/kaggle/gpu-capability-probe-v1/arc-hydra-gpu-capability-probe.log",
+      "sha256": "691a3a09a36f5018f455c1bf5066031f8e703a9ca902779833ff7cc1002837cc",
+      "bytes": 2465,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/reports/kaggle/gpu-capability-probe-v1/gpu-probe.json",
+      "published_path": "reports/kaggle/gpu-capability-probe-v1/gpu-probe.json",
+      "sha256": "742851074babf071b521b69f174120e8ecbe189b255a4ddae06872c01cd08cb6",
+      "bytes": 368,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/analyze_arc2_candidates.py",
+      "published_path": "scripts/analyze_arc2_candidates.py",
+      "sha256": "4023855ff02d267f13a372fe09467755c1d8ce8d7b3cec1c2e5ee5c332b2b4f7",
+      "bytes": 4327,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/audit_arc2_completed.py",
+      "published_path": "scripts/audit_arc2_completed.py",
+      "sha256": "0648603b218cdea53de1d1ba8d85854ca5db57f9805a3c3eefa364fcc60b38a2",
+      "bytes": 5903,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/audit_release.py",
+      "published_path": "scripts/audit_release.py",
+      "sha256": "01bfd5a36400befdeeba6a24f4bdeedf18197e76bd3efe48cf992f788ab2bcec",
+      "bytes": 2960,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/build_arc2_adaptation_comparison.py",
+      "published_path": "scripts/build_arc2_adaptation_comparison.py",
+      "sha256": "dbdc64c3bb4e3c5d39d311e5d541af55190e2b179e4f1321040fbab942604d1d",
+      "bytes": 5993,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/build_arc2_adaptation_probe.py",
+      "published_path": "scripts/build_arc2_adaptation_probe.py",
+      "sha256": "b8635aa58a034295b7939c72530384674276241bf53cd0a93eccf0cfc603144e",
+      "bytes": 4385,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/build_arc2_competition.py",
+      "published_path": "scripts/build_arc2_competition.py",
+      "sha256": "d5a6f218d8c4270788302c258cdaa1829369d35fab1f7a84153682b96bab4609",
+      "bytes": 7260,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/build_arc2_neural_development.py",
+      "published_path": "scripts/build_arc2_neural_development.py",
+      "sha256": "d6d04a87abb2e2d087c682db16e35c18768d8da2d84e4d878030ba78cbcda972",
+      "bytes": 6583,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/build_arc2_notebook.py",
+      "published_path": "scripts/build_arc2_notebook.py",
+      "sha256": "06db0ffe5971907425d20e2f49a5f32bcfa6a7cfa00b32c41be5662f20186038",
+      "bytes": 5164,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/diagnose_arc2_inference.py",
+      "published_path": "scripts/diagnose_arc2_inference.py",
+      "sha256": "e696027fd6fee39252c7a28e5e366c30d42d025aad43e4a4687dd98ef4dab50d",
+      "bytes": 2213,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/evaluate_arc2.py",
+      "published_path": "scripts/evaluate_arc2.py",
+      "sha256": "5fa1c5f1f477b4ac9316633a59485aa0aa8c815c6672e4f385d0c0900a9d616d",
+      "bytes": 2275,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/export_release.py",
+      "published_path": "scripts/export_release.py",
+      "sha256": "d106558d84208673d4d94c6d2c0e528dafd693a59340986f96869ff82d5da8c4",
+      "bytes": 1322,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/kaggle_local.py",
+      "published_path": "scripts/kaggle_local.py",
+      "sha256": "c56f41dbb90c4cf282c026891ba967da27ceecd6878a9e689b23493575045888",
+      "bytes": 1098,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/launch_arc2_hybrid.py",
+      "published_path": "scripts/launch_arc2_hybrid.py",
+      "sha256": "b342e1287b10139d6e5641bd09751069759773c92e55c77d26eeb2afae72800b",
+      "bytes": 2649,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/prepare_arc2_training_inputs.py",
+      "published_path": "scripts/prepare_arc2_training_inputs.py",
+      "sha256": "a40f29623ffb099c44b196c256a0121c8481b722b9e8f66543d7db4eab721e36",
+      "bytes": 1257,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/refresh_arc2_state.py",
+      "published_path": "scripts/refresh_arc2_state.py",
+      "sha256": "571a848b12ee4d0c4f28bdb60c691438993c62fa7abb9e660759cc4d6863e4f5",
+      "bytes": 2446,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/submit_arc2_hybrid.py",
+      "published_path": "scripts/submit_arc2_hybrid.py",
+      "sha256": "3bdf3738d369365142560e01e20998df0095187cd7017b1a09eadc83979218d7",
+      "bytes": 6205,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/scripts/watch_arc2_official.py",
+      "published_path": "scripts/watch_arc2_official.py",
+      "sha256": "a935cadfa6e34a0a568c52e9914bf1eccdc3fe1b2d0bb1acec2b1b8894d1850e",
+      "bytes": 2524,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/tests/conftest.py",
+      "published_path": "tests/conftest.py",
+      "sha256": "b7a1207bc7cac0cba863881e00c2fa209b8c25977b37c2fa5bc29f59f1ca299a",
+      "bytes": 172,
+      "track": "shared"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/tests/test_arc2.py",
+      "published_path": "tests/test_arc2.py",
+      "sha256": "7ab45b284096421981abcd61285de94be1baed7d0488b1c960a1be7e44a08ca6",
+      "bytes": 2283,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/tests/test_arc2_adaptation.py",
+      "published_path": "tests/test_arc2_adaptation.py",
+      "sha256": "36b8c797de815ccf441e5ec96746be914abdcb8fcf841c4bb7f33a4392e806f0",
+      "bytes": 900,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/tests/test_arc2_bounded_inference.py",
+      "published_path": "tests/test_arc2_bounded_inference.py",
+      "sha256": "ff395e2293f77a63bd0b900770d3564be2373735c53c526557d38e6e24cc569d",
+      "bytes": 2517,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/tests/test_arc2_neural.py",
+      "published_path": "tests/test_arc2_neural.py",
+      "sha256": "1ad7ab4607c6d9fbf59d690ae3f95a293dd59d7d4f56970e314a6d21bb06a793",
+      "bytes": 1339,
+      "track": "arc2"
+    },
+    {
+      "source_path": "ARC-AGI-3-Kaggle-Starter/tests/test_release_audit.py",
+      "published_path": "tests/test_release_audit.py",
+      "sha256": "761793597e7d1e8b0ecd39949175862530a25098f6bd44768da77c54953e34a4",
+      "bytes": 1197,
+      "track": "shared"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "arc2/__pycache__/",
+      "reason": "Git metadata, environment, scratch or generated test/cache directory"
+    },
+    {
+      "path": "reference/arc2/nvarc-inference/nvarc_2025.pdf",
+      "bytes": 383458,
+      "reason": "downloaded third-party paper/text; cited in research notes",
+      "sha256": "946ebe535422f820b723ed6ca30ec4d8f0c2b1d0cb83f81d4c2200f775b80ead"
+    },
+    {
+      "path": "reference/arc2/nvarc-inference/paper.txt",
+      "bytes": 25060,
+      "reason": "downloaded third-party paper/text; cited in research notes",
+      "sha256": "36d2baaa12231b111b919823f49dca11931d53bac571821680f285e971527197"
+    }
+  ],
+  "notes": "Generated root README/attributes/ignore/CI are tailored for this repository. Original code, evidence and evaluated notebook bytes are copied unchanged; private/heavy artifacts are explicitly inventoried, not silently dropped.",
+  "verification": {
+    "visible_source_files_accounted_for": 1272,
+    "unaccounted_visible_files": 0,
+    "arc3_tests": {
+      "passed": 218,
+      "skipped": 1,
+      "skip_reason": "optional downloaded public game cache absent"
+    },
+    "arc2_tests_passed": 19
+  }
+}

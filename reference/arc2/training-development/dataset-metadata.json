@@ -1,0 +1,11 @@
+{
+  "id": "kunalsinghh03/arc2-public-training-development",
+  "title": "ARC2 Public Training Development",
+  "subtitle": "Training-only development inputs for a separate ARC2 baseline",
+  "description": "Only public training challenges and their provided training solution labels. No evaluation-answer files, hidden tasks, credentials or pretrained weights.",
+  "licenses": [
+    {
+      "name": "Apache 2.0"
+    }
+  ]
+}

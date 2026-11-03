@@ -1,0 +1,224 @@
+[{"stream_name":"stderr","time":8.752291169,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.752340069,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.752345832,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.752349649,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":9.446486577,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.446521534,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.446525352,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.446527934,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":34.149655329,"data":"NEURAL_RUNTIME {'torch': '2.11.0+cu128', 'transformers': '5.16.1', 'cuda': True}\n"}
+,{"stream_name":"stdout","time":34.199142615,"data":"GPU Tesla T4 15636037632\n"}
+,{"stream_name":"stderr","time":44.647439238,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":44.647463247,"data":"\n"}
+,{"stream_name":"stderr","time":44.647468414,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stdout","time":62.280641594,"data":"MODEL_READY {'vocab': 16, 'tokenizer': 16}\n"}
+,{"stream_name":"stdout","time":264.271078803,"data":"NEURAL_PROGRESS {\"tasks\": 5, \"total\": 1000, \"generated_tokens\": 2364, \"elapsed_seconds\": 253.599042445}\n"}
+,{"stream_name":"stdout","time":415.274617831,"data":"NEURAL_PROGRESS {\"tasks\": 10, \"total\": 1000, \"generated_tokens\": 3809, \"elapsed_seconds\": 404.6013507319999}\n"}
+,{"stream_name":"stdout","time":601.440508734,"data":"NEURAL_PROGRESS {\"tasks\": 15, \"total\": 1000, \"generated_tokens\": 5444, \"elapsed_seconds\": 590.7541008640001}\n"}
+,{"stream_name":"stdout","time":930.906382195,"data":"NEURAL_PROGRESS {\"tasks\": 20, \"total\": 1000, \"generated_tokens\": 8444, \"elapsed_seconds\": 920.2125130449999}\n"}
+,{"stream_name":"stdout","time":1467.511946876,"data":"NEURAL_PROGRESS {\"tasks\": 25, \"total\": 1000, \"generated_tokens\": 13105, \"elapsed_seconds\": 1456.839296018}\n"}
+,{"stream_name":"stdout","time":1571.736372196,"data":"NEURAL_PROGRESS {\"tasks\": 30, \"total\": 1000, \"generated_tokens\": 14676, \"elapsed_seconds\": 1561.061375411}\n"}
+,{"stream_name":"stdout","time":1850.3426786,"data":"NEURAL_PROGRESS {\"tasks\": 35, \"total\": 1000, \"generated_tokens\": 17697, \"elapsed_seconds\": 1839.660128388}\n"}
+,{"stream_name":"stdout","time":2041.263122437,"data":"NEURAL_PROGRESS {\"tasks\": 40, \"total\": 1000, \"generated_tokens\": 20010, \"elapsed_seconds\": 2030.574964498}\n"}
+,{"stream_name":"stdout","time":2387.160546186,"data":"NEURAL_PROGRESS {\"tasks\": 45, \"total\": 1000, \"generated_tokens\": 24865, \"elapsed_seconds\": 2376.483207}\n"}
+,{"stream_name":"stdout","time":2551.945835747,"data":"NEURAL_PROGRESS {\"tasks\": 50, \"total\": 1000, \"generated_tokens\": 27008, \"elapsed_seconds\": 2541.269309566}\n"}
+,{"stream_name":"stdout","time":2699.674573336,"data":"NEURAL_PROGRESS {\"tasks\": 55, \"total\": 1000, \"generated_tokens\": 28759, \"elapsed_seconds\": 2688.976888401}\n"}
+,{"stream_name":"stdout","time":2988.115123235,"data":"NEURAL_PROGRESS {\"tasks\": 60, \"total\": 1000, \"generated_tokens\": 31450, \"elapsed_seconds\": 2977.440735494}\n"}
+,{"stream_name":"stdout","time":3225.612712876,"data":"NEURAL_PROGRESS {\"tasks\": 65, \"total\": 1000, \"generated_tokens\": 34515, \"elapsed_seconds\": 3214.934752875}\n"}
+,{"stream_name":"stdout","time":3698.693425335,"data":"NEURAL_PROGRESS {\"tasks\": 70, \"total\": 1000, \"generated_tokens\": 38929, \"elapsed_seconds\": 3688.011736092}\n"}
+,{"stream_name":"stdout","time":3929.663814119,"data":"NEURAL_PROGRESS {\"tasks\": 75, \"total\": 1000, \"generated_tokens\": 41678, \"elapsed_seconds\": 3918.976321216}\n"}
+,{"stream_name":"stdout","time":4053.095595486,"data":"NEURAL_PROGRESS {\"tasks\": 80, \"total\": 1000, \"generated_tokens\": 43152, \"elapsed_seconds\": 4042.4234236830002}\n"}
+,{"stream_name":"stdout","time":4309.33209743,"data":"NEURAL_PROGRESS {\"tasks\": 85, \"total\": 1000, \"generated_tokens\": 46340, \"elapsed_seconds\": 4298.650238544}\n"}
+,{"stream_name":"stdout","time":4617.299062322,"data":"NEURAL_PROGRESS {\"tasks\": 90, \"total\": 1000, \"generated_tokens\": 48758, \"elapsed_seconds\": 4606.621397946999}\n"}
+,{"stream_name":"stdout","time":4885.491514305,"data":"NEURAL_PROGRESS {\"tasks\": 95, \"total\": 1000, \"generated_tokens\": 51824, \"elapsed_seconds\": 4874.817725408}\n"}
+,{"stream_name":"stdout","time":5008.94851343,"data":"NEURAL_PROGRESS {\"tasks\": 100, \"total\": 1000, \"generated_tokens\": 53610, \"elapsed_seconds\": 4998.2826427}\n"}
+,{"stream_name":"stdout","time":5169.663781572,"data":"NEURAL_PROGRESS {\"tasks\": 105, \"total\": 1000, \"generated_tokens\": 55159, \"elapsed_seconds\": 5158.992767772999}\n"}
+,{"stream_name":"stdout","time":5377.62206246,"data":"NEURAL_PROGRESS {\"tasks\": 110, \"total\": 1000, \"generated_tokens\": 57483, \"elapsed_seconds\": 5366.94881353}\n"}
+,{"stream_name":"stdout","time":5624.846971161,"data":"NEURAL_PROGRESS {\"tasks\": 115, \"total\": 1000, \"generated_tokens\": 60337, \"elapsed_seconds\": 5614.169528552}\n"}
+,{"stream_name":"stdout","time":5824.267889608,"data":"NEURAL_PROGRESS {\"tasks\": 120, \"total\": 1000, \"generated_tokens\": 63147, \"elapsed_seconds\": 5813.592250501}\n"}
+,{"stream_name":"stdout","time":5915.866842982,"data":"NEURAL_PROGRESS {\"tasks\": 125, \"total\": 1000, \"generated_tokens\": 64583, \"elapsed_seconds\": 5905.17942681}\n"}
+,{"stream_name":"stdout","time":6355.888644025,"data":"NEURAL_PROGRESS {\"tasks\": 130, \"total\": 1000, \"generated_tokens\": 68365, \"elapsed_seconds\": 6345.222459074001}\n"}
+,{"stream_name":"stdout","time":6648.886044181,"data":"NEURAL_PROGRESS {\"tasks\": 135, \"total\": 1000, \"generated_tokens\": 71127, \"elapsed_seconds\": 6638.214204845999}\n"}
+,{"stream_name":"stdout","time":6720.418705079,"data":"NEURAL_PROGRESS {\"tasks\": 140, \"total\": 1000, \"generated_tokens\": 72137, \"elapsed_seconds\": 6709.7519090900005}\n"}
+,{"stream_name":"stdout","time":6918.098703848,"data":"NEURAL_PROGRESS {\"tasks\": 145, \"total\": 1000, \"generated_tokens\": 74868, \"elapsed_seconds\": 6907.426353051}\n"}
+,{"stream_name":"stdout","time":7018.22820776,"data":"NEURAL_PROGRESS {\"tasks\": 150, \"total\": 1000, \"generated_tokens\": 76272, \"elapsed_seconds\": 7007.5501911129995}\n"}
+,{"stream_name":"stdout","time":7142.345868894,"data":"NEURAL_PROGRESS {\"tasks\": 155, \"total\": 1000, \"generated_tokens\": 78198, \"elapsed_seconds\": 7131.669758206999}\n"}
+,{"stream_name":"stdout","time":7406.915178332,"data":"NEURAL_PROGRESS {\"tasks\": 160, \"total\": 1000, \"generated_tokens\": 80381, \"elapsed_seconds\": 7396.233357654}\n"}
+,{"stream_name":"stdout","time":7583.650097147,"data":"NEURAL_PROGRESS {\"tasks\": 165, \"total\": 1000, \"generated_tokens\": 82646, \"elapsed_seconds\": 7572.976682188}\n"}
+,{"stream_name":"stdout","time":7892.777482076,"data":"NEURAL_PROGRESS {\"tasks\": 170, \"total\": 1000, \"generated_tokens\": 85727, \"elapsed_seconds\": 7882.1062807}\n"}
+,{"stream_name":"stdout","time":8105.502442765,"data":"NEURAL_PROGRESS {\"tasks\": 175, \"total\": 1000, \"generated_tokens\": 88169, \"elapsed_seconds\": 8094.810603595999}\n"}
+,{"stream_name":"stdout","time":8547.945306656,"data":"NEURAL_PROGRESS {\"tasks\": 180, \"total\": 1000, \"generated_tokens\": 91819, \"elapsed_seconds\": 8537.269757356}\n"}
+,{"stream_name":"stdout","time":8884.377365824,"data":"NEURAL_PROGRESS {\"tasks\": 185, \"total\": 1000, \"generated_tokens\": 95359, \"elapsed_seconds\": 8873.704456184}\n"}
+,{"stream_name":"stdout","time":9143.174180583,"data":"NEURAL_PROGRESS {\"tasks\": 190, \"total\": 1000, \"generated_tokens\": 98396, \"elapsed_seconds\": 9132.50763966}\n"}
+,{"stream_name":"stdout","time":9248.367419851,"data":"NEURAL_PROGRESS {\"tasks\": 195, \"total\": 1000, \"generated_tokens\": 99710, \"elapsed_seconds\": 9237.685180067}\n"}
+,{"stream_name":"stdout","time":9629.213198431,"data":"NEURAL_PROGRESS {\"tasks\": 200, \"total\": 1000, \"generated_tokens\": 103285, \"elapsed_seconds\": 9618.546624352}\n"}
+,{"stream_name":"stdout","time":9947.347021292,"data":"NEURAL_PROGRESS {\"tasks\": 205, \"total\": 1000, \"generated_tokens\": 107308, \"elapsed_seconds\": 9936.680493278}\n"}
+,{"stream_name":"stdout","time":10132.097671608,"data":"NEURAL_PROGRESS {\"tasks\": 210, \"total\": 1000, \"generated_tokens\": 109416, \"elapsed_seconds\": 10121.424188222}\n"}
+,{"stream_name":"stdout","time":10158.653584007,"data":"NEURAL_PROGRESS {\"tasks\": 215, \"total\": 1000, \"generated_tokens\": 109863, \"elapsed_seconds\": 10147.979904093}\n"}
+,{"stream_name":"stdout","time":10303.661038093,"data":"NEURAL_PROGRESS {\"tasks\": 220, \"total\": 1000, \"generated_tokens\": 112019, \"elapsed_seconds\": 10292.985146018}\n"}
+,{"stream_name":"stdout","time":10538.713514014,"data":"NEURAL_PROGRESS {\"tasks\": 225, \"total\": 1000, \"generated_tokens\": 115092, \"elapsed_seconds\": 10528.030334383}\n"}
+,{"stream_name":"stdout","time":10891.370547245,"data":"NEURAL_PROGRESS {\"tasks\": 230, \"total\": 1000, \"generated_tokens\": 119677, \"elapsed_seconds\": 10880.688776277}\n"}
+,{"stream_name":"stdout","time":11088.18754462,"data":"NEURAL_PROGRESS {\"tasks\": 235, \"total\": 1000, \"generated_tokens\": 122098, \"elapsed_seconds\": 11077.508714419999}\n"}
+,{"stream_name":"stdout","time":11402.606520178,"data":"NEURAL_PROGRESS {\"tasks\": 240, \"total\": 1000, \"generated_tokens\": 125128, \"elapsed_seconds\": 11391.929335165}\n"}
+,{"stream_name":"stdout","time":11969.470037784,"data":"NEURAL_PROGRESS {\"tasks\": 245, \"total\": 1000, \"generated_tokens\": 130911, \"elapsed_seconds\": 11958.792228994}\n"}
+,{"stream_name":"stdout","time":12102.961701746,"data":"NEURAL_PROGRESS {\"tasks\": 250, \"total\": 1000, \"generated_tokens\": 132702, \"elapsed_seconds\": 12092.285444816}\n"}
+,{"stream_name":"stdout","time":12196.475246357,"data":"NEURAL_PROGRESS {\"tasks\": 255, \"total\": 1000, \"generated_tokens\": 133814, \"elapsed_seconds\": 12185.796781138999}\n"}
+,{"stream_name":"stdout","time":12371.204826766,"data":"NEURAL_PROGRESS {\"tasks\": 260, \"total\": 1000, \"generated_tokens\": 136312, \"elapsed_seconds\": 12360.526866721}\n"}
+,{"stream_name":"stdout","time":12491.284231376,"data":"NEURAL_PROGRESS {\"tasks\": 265, \"total\": 1000, \"generated_tokens\": 137984, \"elapsed_seconds\": 12480.5864494}\n"}
+,{"stream_name":"stdout","time":12570.684944358,"data":"NEURAL_PROGRESS {\"tasks\": 270, \"total\": 1000, \"generated_tokens\": 139004, \"elapsed_seconds\": 12560.003348717}\n"}
+,{"stream_name":"stdout","time":12709.376727179,"data":"NEURAL_PROGRESS {\"tasks\": 275, \"total\": 1000, \"generated_tokens\": 140742, \"elapsed_seconds\": 12698.699401935999}\n"}
+,{"stream_name":"stdout","time":13049.4009162,"data":"NEURAL_PROGRESS {\"tasks\": 280, \"total\": 1000, \"generated_tokens\": 144766, \"elapsed_seconds\": 13038.723349373999}\n"}
+,{"stream_name":"stdout","time":13202.081346336,"data":"NEURAL_PROGRESS {\"tasks\": 285, \"total\": 1000, \"generated_tokens\": 146486, \"elapsed_seconds\": 13191.394893555}\n"}
+,{"stream_name":"stdout","time":13806.772524822,"data":"NEURAL_PROGRESS {\"tasks\": 290, \"total\": 1000, \"generated_tokens\": 152588, \"elapsed_seconds\": 13796.091416857}\n"}
+,{"stream_name":"stdout","time":14057.630507432,"data":"NEURAL_PROGRESS {\"tasks\": 295, \"total\": 1000, \"generated_tokens\": 155440, \"elapsed_seconds\": 14046.944597728}\n"}
+,{"stream_name":"stdout","time":14230.366181831,"data":"NEURAL_PROGRESS {\"tasks\": 300, \"total\": 1000, \"generated_tokens\": 157498, \"elapsed_seconds\": 14219.686383168}\n"}
+,{"stream_name":"stdout","time":14359.464083388,"data":"NEURAL_PROGRESS {\"tasks\": 305, \"total\": 1000, \"generated_tokens\": 159039, \"elapsed_seconds\": 14348.783208998999}\n"}
+,{"stream_name":"stdout","time":14806.709214128,"data":"NEURAL_PROGRESS {\"tasks\": 310, \"total\": 1000, \"generated_tokens\": 163075, \"elapsed_seconds\": 14796.027266022}\n"}
+,{"stream_name":"stdout","time":14970.763580867,"data":"NEURAL_PROGRESS {\"tasks\": 315, \"total\": 1000, \"generated_tokens\": 165406, \"elapsed_seconds\": 14960.082750587999}\n"}
+,{"stream_name":"stdout","time":15243.130465607,"data":"NEURAL_PROGRESS {\"tasks\": 320, \"total\": 1000, \"generated_tokens\": 167966, \"elapsed_seconds\": 15232.453770167}\n"}
+,{"stream_name":"stdout","time":15369.092126713,"data":"NEURAL_PROGRESS {\"tasks\": 325, \"total\": 1000, \"generated_tokens\": 169907, \"elapsed_seconds\": 15358.413137021}\n"}
+,{"stream_name":"stdout","time":15725.573741881,"data":"NEURAL_PROGRESS {\"tasks\": 330, \"total\": 1000, \"generated_tokens\": 173350, \"elapsed_seconds\": 15714.888222851}\n"}
+,{"stream_name":"stdout","time":15984.631819503,"data":"NEURAL_PROGRESS {\"tasks\": 335, \"total\": 1000, \"generated_tokens\": 176274, \"elapsed_seconds\": 15973.951881844}\n"}
+,{"stream_name":"stdout","time":16364.12748715,"data":"NEURAL_PROGRESS {\"tasks\": 340, \"total\": 1000, \"generated_tokens\": 179966, \"elapsed_seconds\": 16353.446241743999}\n"}
+,{"stream_name":"stdout","time":16969.440656949,"data":"NEURAL_PROGRESS {\"tasks\": 345, \"total\": 1000, \"generated_tokens\": 185596, \"elapsed_seconds\": 16958.757946384}\n"}
+,{"stream_name":"stdout","time":17352.245676483,"data":"NEURAL_PROGRESS {\"tasks\": 350, \"total\": 1000, \"generated_tokens\": 189318, \"elapsed_seconds\": 17341.560256527002}\n"}
+,{"stream_name":"stdout","time":17656.780662213,"data":"NEURAL_PROGRESS {\"tasks\": 355, \"total\": 1000, \"generated_tokens\": 193668, \"elapsed_seconds\": 17646.104958299}\n"}
+,{"stream_name":"stdout","time":17943.140908184,"data":"NEURAL_PROGRESS {\"tasks\": 360, \"total\": 1000, \"generated_tokens\": 196978, \"elapsed_seconds\": 17932.461910730002}\n"}
+,{"stream_name":"stdout","time":18017.428275787,"data":"NEURAL_PROGRESS {\"tasks\": 365, \"total\": 1000, \"generated_tokens\": 198053, \"elapsed_seconds\": 18006.745870496}\n"}
+,{"stream_name":"stdout","time":18259.407539626,"data":"NEURAL_PROGRESS {\"tasks\": 370, \"total\": 1000, \"generated_tokens\": 200751, \"elapsed_seconds\": 18248.728370134002}\n"}
+,{"stream_name":"stdout","time":18350.927497662,"data":"NEURAL_PROGRESS {\"tasks\": 375, \"total\": 1000, \"generated_tokens\": 201890, \"elapsed_seconds\": 18340.240144648}\n"}
+,{"stream_name":"stdout","time":18489.804203861,"data":"NEURAL_PROGRESS {\"tasks\": 380, \"total\": 1000, \"generated_tokens\": 203359, \"elapsed_seconds\": 18479.125452639}\n"}
+,{"stream_name":"stdout","time":18691.394901879,"data":"NEURAL_PROGRESS {\"tasks\": 385, \"total\": 1000, \"generated_tokens\": 206302, \"elapsed_seconds\": 18680.715791645}\n"}
+,{"stream_name":"stdout","time":18786.054488459,"data":"NEURAL_PROGRESS {\"tasks\": 390, \"total\": 1000, \"generated_tokens\": 207700, \"elapsed_seconds\": 18775.380932793003}\n"}
+,{"stream_name":"stdout","time":18852.57118841,"data":"NEURAL_PROGRESS {\"tasks\": 395, \"total\": 1000, \"generated_tokens\": 208549, \"elapsed_seconds\": 18841.897606853003}\n"}
+,{"stream_name":"stdout","time":19107.070660412,"data":"NEURAL_PROGRESS {\"tasks\": 400, \"total\": 1000, \"generated_tokens\": 210858, \"elapsed_seconds\": 19096.382053457}\n"}
+,{"stream_name":"stdout","time":19385.857503884,"data":"NEURAL_PROGRESS {\"tasks\": 405, \"total\": 1000, \"generated_tokens\": 213634, \"elapsed_seconds\": 19375.182813453}\n"}
+,{"stream_name":"stdout","time":19719.937343448,"data":"NEURAL_PROGRESS {\"tasks\": 410, \"total\": 1000, \"generated_tokens\": 217349, \"elapsed_seconds\": 19709.250871136002}\n"}
+,{"stream_name":"stdout","time":19916.54713177,"data":"NEURAL_PROGRESS {\"tasks\": 415, \"total\": 1000, \"generated_tokens\": 219635, \"elapsed_seconds\": 19905.860911127}\n"}
+,{"stream_name":"stdout","time":19964.677982829,"data":"NEURAL_PROGRESS {\"tasks\": 420, \"total\": 1000, \"generated_tokens\": 220367, \"elapsed_seconds\": 19954.007810424002}\n"}
+,{"stream_name":"stdout","time":20268.33705259,"data":"NEURAL_PROGRESS {\"tasks\": 425, \"total\": 1000, \"generated_tokens\": 223011, \"elapsed_seconds\": 20257.658897068002}\n"}
+,{"stream_name":"stdout","time":20434.85413865,"data":"NEURAL_PROGRESS {\"tasks\": 430, \"total\": 1000, \"generated_tokens\": 225024, \"elapsed_seconds\": 20424.17690153}\n"}
+,{"stream_name":"stdout","time":20668.757474147,"data":"NEURAL_PROGRESS {\"tasks\": 435, \"total\": 1000, \"generated_tokens\": 227939, \"elapsed_seconds\": 20658.084121386}\n"}
+,{"stream_name":"stdout","time":20787.861530575,"data":"NEURAL_PROGRESS {\"tasks\": 440, \"total\": 1000, \"generated_tokens\": 229705, \"elapsed_seconds\": 20777.185686113}\n"}
+,{"stream_name":"stdout","time":20953.477869257,"data":"NEURAL_PROGRESS {\"tasks\": 445, \"total\": 1000, \"generated_tokens\": 231762, \"elapsed_seconds\": 20942.800153625}\n"}
+,{"stream_name":"stdout","time":21272.763734627,"data":"NEURAL_PROGRESS {\"tasks\": 450, \"total\": 1000, \"generated_tokens\": 234934, \"elapsed_seconds\": 21262.063592837003}\n"}
+,{"stream_name":"stdout","time":21372.403041329,"data":"NEURAL_PROGRESS {\"tasks\": 455, \"total\": 1000, \"generated_tokens\": 235973, \"elapsed_seconds\": 21361.725032824}\n"}
+,{"stream_name":"stdout","time":21609.829177914,"data":"NEURAL_PROGRESS {\"tasks\": 460, \"total\": 1000, \"generated_tokens\": 237944, \"elapsed_seconds\": 21599.155300867}\n"}
+,{"stream_name":"stdout","time":21984.673363479,"data":"NEURAL_PROGRESS {\"tasks\": 465, \"total\": 1000, \"generated_tokens\": 241388, \"elapsed_seconds\": 21973.985395269003}\n"}
+,{"stream_name":"stdout","time":22136.046588359,"data":"NEURAL_PROGRESS {\"tasks\": 470, \"total\": 1000, \"generated_tokens\": 243109, \"elapsed_seconds\": 22125.374642262002}\n"}
+,{"stream_name":"stdout","time":22273.555397158,"data":"NEURAL_PROGRESS {\"tasks\": 475, \"total\": 1000, \"generated_tokens\": 244780, \"elapsed_seconds\": 22262.877302978002}\n"}
+,{"stream_name":"stdout","time":22478.956716228,"data":"NEURAL_PROGRESS {\"tasks\": 480, \"total\": 1000, \"generated_tokens\": 247522, \"elapsed_seconds\": 22468.288339784}\n"}
+,{"stream_name":"stdout","time":22603.529697538,"data":"NEURAL_PROGRESS {\"tasks\": 485, \"total\": 1000, \"generated_tokens\": 249284, \"elapsed_seconds\": 22592.832256118003}\n"}
+,{"stream_name":"stdout","time":22914.074398904,"data":"NEURAL_PROGRESS {\"tasks\": 490, \"total\": 1000, \"generated_tokens\": 252027, \"elapsed_seconds\": 22903.406184786003}\n"}
+,{"stream_name":"stdout","time":23313.969069788,"data":"NEURAL_PROGRESS {\"tasks\": 495, \"total\": 1000, \"generated_tokens\": 255921, \"elapsed_seconds\": 23303.289232551}\n"}
+,{"stream_name":"stdout","time":23520.000185499,"data":"NEURAL_PROGRESS {\"tasks\": 500, \"total\": 1000, \"generated_tokens\": 258700, \"elapsed_seconds\": 23509.323685307}\n"}
+,{"stream_name":"stdout","time":23686.319729257,"data":"NEURAL_PROGRESS {\"tasks\": 505, \"total\": 1000, \"generated_tokens\": 260581, \"elapsed_seconds\": 23675.646851033}\n"}
+,{"stream_name":"stdout","time":23786.325784685,"data":"NEURAL_PROGRESS {\"tasks\": 510, \"total\": 1000, \"generated_tokens\": 261967, \"elapsed_seconds\": 23775.649280690002}\n"}
+,{"stream_name":"stdout","time":24037.821203086,"data":"NEURAL_PROGRESS {\"tasks\": 515, \"total\": 1000, \"generated_tokens\": 264852, \"elapsed_seconds\": 24027.131634735}\n"}
+,{"stream_name":"stdout","time":24497.234343263,"data":"NEURAL_PROGRESS {\"tasks\": 520, \"total\": 1000, \"generated_tokens\": 268782, \"elapsed_seconds\": 24486.559369552}\n"}
+,{"stream_name":"stdout","time":24636.487023452,"data":"NEURAL_PROGRESS {\"tasks\": 525, \"total\": 1000, \"generated_tokens\": 270637, \"elapsed_seconds\": 24625.814808561}\n"}
+,{"stream_name":"stdout","time":25098.616016338,"data":"NEURAL_PROGRESS {\"tasks\": 530, \"total\": 1000, \"generated_tokens\": 275679, \"elapsed_seconds\": 25087.94294208}\n"}
+,{"stream_name":"stdout","time":25188.815853035,"data":"NEURAL_PROGRESS {\"tasks\": 535, \"total\": 1000, \"generated_tokens\": 277054, \"elapsed_seconds\": 25178.123964162}\n"}
+,{"stream_name":"stdout","time":25375.930741706,"data":"NEURAL_PROGRESS {\"tasks\": 540, \"total\": 1000, \"generated_tokens\": 279503, \"elapsed_seconds\": 25365.26228464}\n"}
+,{"stream_name":"stdout","time":25499.522161844,"data":"NEURAL_PROGRESS {\"tasks\": 545, \"total\": 1000, \"generated_tokens\": 281092, \"elapsed_seconds\": 25488.847604952003}\n"}
+,{"stream_name":"stdout","time":25670.133822238,"data":"NEURAL_PROGRESS {\"tasks\": 550, \"total\": 1000, \"generated_tokens\": 283412, \"elapsed_seconds\": 25659.434072633}\n"}
+,{"stream_name":"stdout","time":25976.288659955,"data":"NEURAL_PROGRESS {\"tasks\": 555, \"total\": 1000, \"generated_tokens\": 286954, \"elapsed_seconds\": 25965.599447056}\n"}
+,{"stream_name":"stdout","time":26488.589934362,"data":"NEURAL_PROGRESS {\"tasks\": 560, \"total\": 1000, \"generated_tokens\": 291811, \"elapsed_seconds\": 26477.909317370002}\n"}
+,{"stream_name":"stdout","time":26570.279923052,"data":"NEURAL_PROGRESS {\"tasks\": 565, \"total\": 1000, \"generated_tokens\": 292980, \"elapsed_seconds\": 26559.602524820002}\n"}
+,{"stream_name":"stdout","time":26848.728634145,"data":"NEURAL_PROGRESS {\"tasks\": 570, \"total\": 1000, \"generated_tokens\": 295910, \"elapsed_seconds\": 26838.039957745}\n"}
+,{"stream_name":"stdout","time":27277.004015237,"data":"NEURAL_PROGRESS {\"tasks\": 575, \"total\": 1000, \"generated_tokens\": 300746, \"elapsed_seconds\": 27266.325685776003}\n"}
+,{"stream_name":"stdout","time":27712.171960108,"data":"NEURAL_PROGRESS {\"tasks\": 580, \"total\": 1000, \"generated_tokens\": 305115, \"elapsed_seconds\": 27701.493599794}\n"}
+,{"stream_name":"stdout","time":28135.874714497,"data":"NEURAL_PROGRESS {\"tasks\": 585, \"total\": 1000, \"generated_tokens\": 308933, \"elapsed_seconds\": 28125.190792033}\n"}
+,{"stream_name":"stdout","time":28216.953275984,"data":"NEURAL_PROGRESS {\"tasks\": 590, \"total\": 1000, \"generated_tokens\": 309921, \"elapsed_seconds\": 28206.278912765003}\n"}
+,{"stream_name":"stdout","time":28461.994723861,"data":"NEURAL_PROGRESS {\"tasks\": 595, \"total\": 1000, \"generated_tokens\": 313774, \"elapsed_seconds\": 28451.309495020003}\n"}
+,{"stream_name":"stdout","time":28895.791293874,"data":"NEURAL_PROGRESS {\"tasks\": 600, \"total\": 1000, \"generated_tokens\": 317742, \"elapsed_seconds\": 28885.107803307}\n"}
+,{"stream_name":"stdout","time":29037.612698958,"data":"NEURAL_PROGRESS {\"tasks\": 605, \"total\": 1000, \"generated_tokens\": 319225, \"elapsed_seconds\": 29026.93333255}\n"}
+,{"stream_name":"stdout","time":29342.786239776,"data":"NEURAL_PROGRESS {\"tasks\": 610, \"total\": 1000, \"generated_tokens\": 322719, \"elapsed_seconds\": 29332.099324726}\n"}
+,{"stream_name":"stdout","time":29568.595380317,"data":"NEURAL_PROGRESS {\"tasks\": 615, \"total\": 1000, \"generated_tokens\": 325523, \"elapsed_seconds\": 29557.909834211}\n"}
+,{"stream_name":"stdout","time":30264.010063715,"data":"NEURAL_PROGRESS {\"tasks\": 620, \"total\": 1000, \"generated_tokens\": 331498, \"elapsed_seconds\": 30253.325086899}\n"}
+,{"stream_name":"stdout","time":30578.911952537,"data":"NEURAL_PROGRESS {\"tasks\": 625, \"total\": 1000, \"generated_tokens\": 334522, \"elapsed_seconds\": 30568.229323509}\n"}
+,{"stream_name":"stdout","time":30852.422206535,"data":"NEURAL_PROGRESS {\"tasks\": 630, \"total\": 1000, \"generated_tokens\": 337404, \"elapsed_seconds\": 30841.744374831}\n"}
+,{"stream_name":"stdout","time":31071.092028273,"data":"NEURAL_PROGRESS {\"tasks\": 635, \"total\": 1000, \"generated_tokens\": 339830, \"elapsed_seconds\": 31060.41566822}\n"}
+,{"stream_name":"stdout","time":31302.293406901,"data":"NEURAL_PROGRESS {\"tasks\": 640, \"total\": 1000, \"generated_tokens\": 342622, \"elapsed_seconds\": 31291.602940335}\n"}
+,{"stream_name":"stdout","time":31352.194375866,"data":"NEURAL_PROGRESS {\"tasks\": 645, \"total\": 1000, \"generated_tokens\": 343456, \"elapsed_seconds\": 31341.517135896}\n"}
+,{"stream_name":"stdout","time":31448.177273119,"data":"NEURAL_PROGRESS {\"tasks\": 650, \"total\": 1000, \"generated_tokens\": 344826, \"elapsed_seconds\": 31437.507421854003}\n"}
+,{"stream_name":"stdout","time":31618.694959885,"data":"NEURAL_PROGRESS {\"tasks\": 655, \"total\": 1000, \"generated_tokens\": 346930, \"elapsed_seconds\": 31608.010619813}\n"}
+,{"stream_name":"stdout","time":31682.170794823,"data":"NEURAL_PROGRESS {\"tasks\": 660, \"total\": 1000, \"generated_tokens\": 347844, \"elapsed_seconds\": 31671.495397056002}\n"}
+,{"stream_name":"stdout","time":31844.056872518,"data":"NEURAL_PROGRESS {\"tasks\": 665, \"total\": 1000, \"generated_tokens\": 349883, \"elapsed_seconds\": 31833.382595892002}\n"}
+,{"stream_name":"stdout","time":31990.439161336,"data":"NEURAL_PROGRESS {\"tasks\": 670, \"total\": 1000, \"generated_tokens\": 351660, \"elapsed_seconds\": 31979.740150577003}\n"}
+,{"stream_name":"stdout","time":32377.390645975,"data":"NEURAL_PROGRESS {\"tasks\": 675, \"total\": 1000, \"generated_tokens\": 355334, \"elapsed_seconds\": 32366.704022212998}\n"}
+,{"stream_name":"stdout","time":32429.697983808,"data":"NEURAL_PROGRESS {\"tasks\": 680, \"total\": 1000, \"generated_tokens\": 356086, \"elapsed_seconds\": 32419.02491805}\n"}
+,{"stream_name":"stdout","time":32826.46302656,"data":"NEURAL_PROGRESS {\"tasks\": 685, \"total\": 1000, \"generated_tokens\": 359810, \"elapsed_seconds\": 32815.77830841}\n"}
+,{"stream_name":"stdout","time":32965.278738213,"data":"NEURAL_PROGRESS {\"tasks\": 690, \"total\": 1000, \"generated_tokens\": 361563, \"elapsed_seconds\": 32954.592672847}\n"}
+,{"stream_name":"stdout","time":33204.491254188,"data":"NEURAL_PROGRESS {\"tasks\": 695, \"total\": 1000, \"generated_tokens\": 364414, \"elapsed_seconds\": 33193.804043047996}\n"}
+,{"stream_name":"stdout","time":33548.100461965,"data":"NEURAL_PROGRESS {\"tasks\": 700, \"total\": 1000, \"generated_tokens\": 367634, \"elapsed_seconds\": 33537.417083707}\n"}
+,{"stream_name":"stdout","time":33760.13140754,"data":"NEURAL_PROGRESS {\"tasks\": 705, \"total\": 1000, \"generated_tokens\": 370184, \"elapsed_seconds\": 33749.450573096}\n"}
+,{"stream_name":"stdout","time":34088.800146947,"data":"NEURAL_PROGRESS {\"tasks\": 710, \"total\": 1000, \"generated_tokens\": 373880, \"elapsed_seconds\": 34078.115266195}\n"}
+,{"stream_name":"stdout","time":34302.606421122,"data":"NEURAL_PROGRESS {\"tasks\": 715, \"total\": 1000, \"generated_tokens\": 376627, \"elapsed_seconds\": 34291.920130439}\n"}
+,{"stream_name":"stdout","time":34486.834563299,"data":"NEURAL_PROGRESS {\"tasks\": 720, \"total\": 1000, \"generated_tokens\": 379063, \"elapsed_seconds\": 34476.154954230995}\n"}
+,{"stream_name":"stdout","time":34629.499758941,"data":"NEURAL_PROGRESS {\"tasks\": 725, \"total\": 1000, \"generated_tokens\": 381015, \"elapsed_seconds\": 34618.82071542}\n"}
+,{"stream_name":"stdout","time":34806.482375423,"data":"NEURAL_PROGRESS {\"tasks\": 730, \"total\": 1000, \"generated_tokens\": 383336, \"elapsed_seconds\": 34795.790990219}\n"}
+,{"stream_name":"stdout","time":34975.263812483,"data":"NEURAL_PROGRESS {\"tasks\": 735, \"total\": 1000, \"generated_tokens\": 384843, \"elapsed_seconds\": 34964.579060747}\n"}
+,{"stream_name":"stdout","time":35173.137505949,"data":"NEURAL_PROGRESS {\"tasks\": 740, \"total\": 1000, \"generated_tokens\": 387500, \"elapsed_seconds\": 35162.467416151}\n"}
+,{"stream_name":"stdout","time":35270.943286583,"data":"NEURAL_PROGRESS {\"tasks\": 745, \"total\": 1000, \"generated_tokens\": 389184, \"elapsed_seconds\": 35260.261917453}\n"}
+,{"stream_name":"stdout","time":35443.352146373,"data":"NEURAL_PROGRESS {\"tasks\": 750, \"total\": 1000, \"generated_tokens\": 391824, \"elapsed_seconds\": 35432.672042738996}\n"}
+,{"stream_name":"stdout","time":35643.629096279,"data":"NEURAL_PROGRESS {\"tasks\": 755, \"total\": 1000, \"generated_tokens\": 394138, \"elapsed_seconds\": 35632.949982125996}\n"}
+,{"stream_name":"stdout","time":36250.304009362,"data":"NEURAL_PROGRESS {\"tasks\": 760, \"total\": 1000, \"generated_tokens\": 399070, \"elapsed_seconds\": 36239.624445784}\n"}
+,{"stream_name":"stdout","time":36615.352810685,"data":"NEURAL_PROGRESS {\"tasks\": 765, \"total\": 1000, \"generated_tokens\": 403143, \"elapsed_seconds\": 36604.673985003996}\n"}
+,{"stream_name":"stdout","time":36896.731828387,"data":"NEURAL_PROGRESS {\"tasks\": 770, \"total\": 1000, \"generated_tokens\": 406588, \"elapsed_seconds\": 36886.048436908}\n"}
+,{"stream_name":"stdout","time":37149.656006581,"data":"NEURAL_PROGRESS {\"tasks\": 775, \"total\": 1000, \"generated_tokens\": 409587, \"elapsed_seconds\": 37138.978981128}\n"}
+,{"stream_name":"stdout","time":37323.399503099,"data":"NEURAL_PROGRESS {\"tasks\": 780, \"total\": 1000, \"generated_tokens\": 411732, \"elapsed_seconds\": 37312.72322483}\n"}
+,{"stream_name":"stdout","time":37530.007468024,"data":"NEURAL_PROGRESS {\"tasks\": 785, \"total\": 1000, \"generated_tokens\": 414835, \"elapsed_seconds\": 37519.323378787994}\n"}
+,{"stream_name":"stdout","time":37632.609321076,"data":"NEURAL_PROGRESS {\"tasks\": 790, \"total\": 1000, \"generated_tokens\": 416473, \"elapsed_seconds\": 37621.932403301}\n"}
+,{"stream_name":"stdout","time":37791.706674339,"data":"NEURAL_PROGRESS {\"tasks\": 795, \"total\": 1000, \"generated_tokens\": 418695, \"elapsed_seconds\": 37781.027085133996}\n"}
+,{"stream_name":"stdout","time":37890.441193096,"data":"NEURAL_PROGRESS {\"tasks\": 800, \"total\": 1000, \"generated_tokens\": 420155, \"elapsed_seconds\": 37879.766509276}\n"}
+,{"stream_name":"stdout","time":38103.120569252,"data":"NEURAL_PROGRESS {\"tasks\": 805, \"total\": 1000, \"generated_tokens\": 423275, \"elapsed_seconds\": 38092.437631894}\n"}
+,{"stream_name":"stdout","time":38165.731797371,"data":"NEURAL_PROGRESS {\"tasks\": 810, \"total\": 1000, \"generated_tokens\": 424183, \"elapsed_seconds\": 38155.047521985995}\n"}
+,{"stream_name":"stdout","time":38518.70965978,"data":"NEURAL_PROGRESS {\"tasks\": 815, \"total\": 1000, \"generated_tokens\": 427771, \"elapsed_seconds\": 38508.032884948996}\n"}
+,{"stream_name":"stdout","time":38579.693119747,"data":"NEURAL_PROGRESS {\"tasks\": 820, \"total\": 1000, \"generated_tokens\": 428739, \"elapsed_seconds\": 38569.01193899}\n"}
+,{"stream_name":"stdout","time":38851.514052973,"data":"NEURAL_PROGRESS {\"tasks\": 825, \"total\": 1000, \"generated_tokens\": 432223, \"elapsed_seconds\": 38840.836166051}\n"}
+,{"stream_name":"stdout","time":39148.444827718,"data":"NEURAL_PROGRESS {\"tasks\": 830, \"total\": 1000, \"generated_tokens\": 436115, \"elapsed_seconds\": 39137.769492952}\n"}
+,{"stream_name":"stdout","time":39460.431779921,"data":"NEURAL_PROGRESS {\"tasks\": 835, \"total\": 1000, \"generated_tokens\": 439854, \"elapsed_seconds\": 39449.755827318}\n"}
+,{"stream_name":"stdout","time":39570.232935737,"data":"NEURAL_PROGRESS {\"tasks\": 840, \"total\": 1000, \"generated_tokens\": 441368, \"elapsed_seconds\": 39559.563133817996}\n"}
+,{"stream_name":"stdout","time":40028.688257192,"data":"NEURAL_PROGRESS {\"tasks\": 845, \"total\": 1000, \"generated_tokens\": 446145, \"elapsed_seconds\": 40018.017922707}\n"}
+,{"stream_name":"stdout","time":40252.125048341,"data":"NEURAL_PROGRESS {\"tasks\": 850, \"total\": 1000, \"generated_tokens\": 448142, \"elapsed_seconds\": 40241.450184318}\n"}
+,{"stream_name":"stdout","time":40801.839304586,"data":"NEURAL_PROGRESS {\"tasks\": 855, \"total\": 1000, \"generated_tokens\": 452511, \"elapsed_seconds\": 40791.158437891994}\n"}
+,{"stream_name":"stdout","time":41098.086912298,"data":"NEURAL_PROGRESS {\"tasks\": 860, \"total\": 1000, \"generated_tokens\": 455228, \"elapsed_seconds\": 41087.402844437}\n"}
+,{"stream_name":"stdout","time":41290.455628721,"data":"NEURAL_PROGRESS {\"tasks\": 865, \"total\": 1000, \"generated_tokens\": 457711, \"elapsed_seconds\": 41279.769988561}\n"}
+,{"stream_name":"stdout","time":41541.249363775,"data":"NEURAL_PROGRESS {\"tasks\": 870, \"total\": 1000, \"generated_tokens\": 460287, \"elapsed_seconds\": 41530.560879002995}\n"}
+,{"stream_name":"stdout","time":41725.404801971,"data":"NEURAL_PROGRESS {\"tasks\": 875, \"total\": 1000, \"generated_tokens\": 462639, \"elapsed_seconds\": 41714.709527969}\n"}
+,{"stream_name":"stdout","time":41957.887802375,"data":"NEURAL_PROGRESS {\"tasks\": 880, \"total\": 1000, \"generated_tokens\": 465827, \"elapsed_seconds\": 41947.202094073}\n"}
+,{"stream_name":"stdout","time":42077.294953958,"data":"NEURAL_PROGRESS {\"tasks\": 885, \"total\": 1000, \"generated_tokens\": 467563, \"elapsed_seconds\": 42066.614548793}\n"}
+,{"stream_name":"stdout","time":42543.439922075,"data":"NEURAL_PROGRESS {\"tasks\": 890, \"total\": 1000, \"generated_tokens\": 472263, \"elapsed_seconds\": 42532.757767919}\n"}
+,{"stream_name":"stdout","time":42607.440358907,"data":"NEURAL_PROGRESS {\"tasks\": 895, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42596.749044715}\n"}
+,{"stream_name":"stdout","time":42607.665963544,"data":"NEURAL_PROGRESS {\"tasks\": 900, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42596.976281881}\n"}
+,{"stream_name":"stdout","time":42607.889990383,"data":"NEURAL_PROGRESS {\"tasks\": 905, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42597.195264721995}\n"}
+,{"stream_name":"stdout","time":42608.095245925,"data":"NEURAL_PROGRESS {\"tasks\": 910, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42597.415222639}\n"}
+,{"stream_name":"stdout","time":42608.333127282,"data":"NEURAL_PROGRESS {\"tasks\": 915, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42597.669053132}\n"}
+,{"stream_name":"stdout","time":42608.560700654,"data":"NEURAL_PROGRESS {\"tasks\": 920, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42597.881580948}\n"}
+,{"stream_name":"stdout","time":42608.769299409,"data":"NEURAL_PROGRESS {\"tasks\": 925, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42598.08461842}\n"}
+,{"stream_name":"stdout","time":42608.989394312,"data":"NEURAL_PROGRESS {\"tasks\": 930, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42598.305154714}\n"}
+,{"stream_name":"stdout","time":42609.261674858,"data":"NEURAL_PROGRESS {\"tasks\": 935, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42598.572028774}\n"}
+,{"stream_name":"stdout","time":42609.465973487,"data":"NEURAL_PROGRESS {\"tasks\": 940, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42598.776327782}\n"}
+,{"stream_name":"stdout","time":42609.653203822,"data":"NEURAL_PROGRESS {\"tasks\": 945, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42598.973850374}\n"}
+,{"stream_name":"stdout","time":42609.866775316,"data":"NEURAL_PROGRESS {\"tasks\": 950, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42599.181899295}\n"}
+,{"stream_name":"stdout","time":42610.095167002,"data":"NEURAL_PROGRESS {\"tasks\": 955, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42599.400515586}\n"}
+,{"stream_name":"stdout","time":42610.331326244,"data":"NEURAL_PROGRESS {\"tasks\": 960, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42599.636382362994}\n"}
+,{"stream_name":"stdout","time":42610.552276428,"data":"NEURAL_PROGRESS {\"tasks\": 965, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42599.857567164}\n"}
+,{"stream_name":"stdout","time":42610.768396014,"data":"NEURAL_PROGRESS {\"tasks\": 970, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42600.073247511}\n"}
+,{"stream_name":"stdout","time":42610.987145239,"data":"NEURAL_PROGRESS {\"tasks\": 975, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42600.302598054}\n"}
+,{"stream_name":"stdout","time":42611.309137959,"data":"NEURAL_PROGRESS {\"tasks\": 980, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42600.613995873995}\n"}
+,{"stream_name":"stdout","time":42611.541898753,"data":"NEURAL_PROGRESS {\"tasks\": 985, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42600.847238913}\n"}
+,{"stream_name":"stdout","time":42611.740273858,"data":"NEURAL_PROGRESS {\"tasks\": 990, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42601.060889379994}\n"}
+,{"stream_name":"stdout","time":42611.974729987,"data":"NEURAL_PROGRESS {\"tasks\": 995, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42601.279360968}\n"}
+,{"stream_name":"stdout","time":42612.244158854,"data":"NEURAL_PROGRESS {\"tasks\": 1000, \"total\": 1000, \"generated_tokens\": 473243, \"elapsed_seconds\": 42601.5253866}\n"}
+,{"stream_name":"stdout","time":42613.103321521,"data":"ARC2_NEURAL_DEVELOPMENT_COMPLETE {\"tasks\": 1000, \"scores\": {\"neural\": {\"correct_outputs\": 258, \"test_outputs\": 1076, \"score\": 23.977695167286246}, \"symbolic\": {\"correct_outputs\": 49, \"test_outputs\": 1076, \"score\": 4.553903345724907}, \"hybrid\": {\"correct_outputs\": 281, \"test_outputs\": 1076, \"score\": 26.11524163568773}}, \"generated_tokens\": 473243, \"elapsed_seconds\": 42602.438992284, \"boundary\": \"Public training development only; checkpoint may have trained on these tasks. Inference-only baseline, not NVARC TTT reproduction, held-out generalization or official score.\"}\n"}
+,{"stream_name":"stderr","time":42618.623203145,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":42618.623255989,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":42618.805867557,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":42618.80589796,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":42619.659312416,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":42619.76057057,"data":"[NbConvertApp] Writing 61449 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":42622.453271829,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":42622.999474452,"data":"[NbConvertApp] Writing 373626 bytes to __results__.html\n"}
+]

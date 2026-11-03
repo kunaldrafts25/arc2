@@ -1,0 +1,10 @@
+{
+  "kernel": "kunalsinghh03/arc-hydra-arc2-adaptation-probe/2",
+  "recorded_at": "2026-10-28T20:20:07.940361+00:00",
+  "files": {
+    "kernel-metadata.json": "80d16c477315f80cc57395fd445c9b29cd14ec97a7d860d54db5d85d5520a39a",
+    "submission.ipynb": "7c1b4ba2445ec3f83b9268bfe11a76e9a105d73c74438042f9f9d97188c2dbe0"
+  },
+  "wall_seconds": 600,
+  "change": "Remove unused incompatible TorchAO before importing PEFT; full-FP16 LoRA otherwise unchanged"
+}

@@ -1,0 +1,71 @@
+{
+  "checked_at": "2026-10-29T08:59:15.423116+00:00",
+  "neural_kernel": "kunalsinghh03/arc-hydra-arc2-neural-development/1",
+  "paired_kernel": "kunalsinghh03/arc-hydra-arc2-adaptation-comparison/1",
+  "scores_reproduced": true,
+  "scores": {
+    "neural": {
+      "correct_outputs": 258,
+      "test_outputs": 1076,
+      "score": 23.977695167286246
+    },
+    "symbolic": {
+      "correct_outputs": 49,
+      "test_outputs": 1076,
+      "score": 4.553903345724907
+    },
+    "hybrid": {
+      "correct_outputs": 281,
+      "test_outputs": 1076,
+      "score": 26.11524163568773
+    }
+  },
+  "hybrid_gained_outputs": 24,
+  "hybrid_lost_outputs": 1,
+  "generation_outcomes": {
+    "valid_output": 1841,
+    "GPU memory exhausted": 41,
+    "unfinished output": 32,
+    "budget": 238
+  },
+  "expected_test_outputs": 1076,
+  "outputs_with_valid_neural_generation": 922,
+  "outputs_without_valid_neural_generation": 154,
+  "neural_elapsed_seconds": 42602.438992284,
+  "paired_scores": {
+    "before": {
+      "correct_outputs": 19,
+      "test_outputs": 51,
+      "score": 37.254901960784316
+    },
+    "after": {
+      "correct_outputs": 17,
+      "test_outputs": 51,
+      "score": 33.333333333333336
+    }
+  },
+  "adaptation_gained": [],
+  "adaptation_lost": [
+    {
+      "task_id": "0520fde7",
+      "test_index": 0
+    },
+    {
+      "task_id": "103eff5b",
+      "test_index": 0
+    }
+  ],
+  "adaptation_steps_completed": 400,
+  "adaptation_stop_reasons": {
+    "complete": 50
+  },
+  "artifact_hashes": {
+    "neural-predictions.json": "791d8b0c67654ab4be8c4aca0a395ad300b90fd9c91916905886191a297555fc",
+    "symbolic-predictions.json": "d6b93417d23e08310d6025e18a6e9930fa687eccf912de47c6855522aba6e00d",
+    "hybrid-predictions.json": "9efb8a72df80319b858fb56ede3e15c23feb17a3af0e59d5b8c6febb88ff089f",
+    "before-predictions.json": "039f29b981576a52b1394d55a17ff6853fdb3dddf4e5f525bdad7f396a9747d0",
+    "after-predictions.json": "b1a3303e0334390cd49415db9f51061c0a63e2ca1f70a169e007bf672867c2d9"
+  },
+  "decision": "Preserve inference-only hybrid as the stronger measured development candidate. Do not promote this eight-step LoRA setting; it regressed in the fixed paired pilot.",
+  "boundary": "Both datasets are public TRAINING tasks and may have appeared in checkpoint pretraining. Neural baseline includes symbolic fallback. The adaptation pilot has a different 50-task subset; its percentages cannot be compared directly with the 1000-task benchmark. No held-out or official improvement established; official ARC2 best remains 0.00."
+}

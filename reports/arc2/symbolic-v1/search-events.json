@@ -1,0 +1,8300 @@
+[
+  {
+    "task_id": "00576224",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "007bbfb7",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "009d5c81",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "00d62c1b",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "00dbd492",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "017c7c7b",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "025d127b",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "03560426",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "045e512c",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "0520fde7",
+    "programs": 328,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_1_and_0",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "05269061",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "05a7bcf2",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "05f2a901",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "0607ce86",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046000000002095476,
+    "selected": []
+  },
+  {
+    "task_id": "0692e18c",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "06df4c85",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "070dd51e",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "08ed6ac7",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "09629e4f",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "0962bcdd",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "09c534e7",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046000000002095476,
+    "selected": []
+  },
+  {
+    "task_id": "0a1d4ef5",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "0a2355a6",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": []
+  },
+  {
+    "task_id": "0a938d79",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "0b148d64",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "0b17323b",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "0bb8deee",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "0becf7df",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "0c786b71",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "0c9aba6e",
+    "programs": 304,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_0_or_None",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "0ca9ddb6",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "0d3d703e",
+    "programs": 304,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 0,
+        "complexity": 0.4
+      }
+    ]
+  },
+  {
+    "task_id": "0d87d2a6",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "0e206a2e",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "0e671a1a",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "0f63c0b9",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "103eff5b",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "10fcaaa3",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "11852cab",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "1190bc91",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "1190e5a7",
+    "programs": 256,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "11dc524f",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "11e1fe23",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "12422b43",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "12997ef3",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "12eac192",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "13713586",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "137eaa0f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "137f0df0",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "13f06aa5",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "140c817e",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "14754a24",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "1478ab18",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "14b8e18c",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "150deff5",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "15113be4",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "15660dd6",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "15663ba9",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "15696249",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "17829a00",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "178fcbfb",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "17b80ad2",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "17b866bd",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "17cae0c1",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "18286ef8",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "182e5d0f",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "18419cfa",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "18447a8d",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "184a9768",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "195ba7dc",
+    "programs": 296,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_1_or_0",
+        "orientation": 0,
+        "complexity": 2.0
+      }
+    ]
+  },
+  {
+    "task_id": "1990f7a8",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "19bb5feb",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "1a07d186",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "1a244afd",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "1a2e2828",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "1a6449f1",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "1acc24af",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "1b2d62fb",
+    "programs": 328,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "halves_1_or_0",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "1b59e163",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "1b60fb0c",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "1b8318e3",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "1be83260",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "1bfc4729",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "1c02dbbe",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "1c0d0a4b",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "1c56ad9f",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "1c786137",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "1caeab9d",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "1cf80156",
+    "programs": 280,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": [
+      {
+        "name": "foreground_bbox_None",
+        "orientation": 0,
+        "complexity": 1.0
+      }
+    ]
+  },
+  {
+    "task_id": "1d0a4b61",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "1d398264",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "1d61978c",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "1da012fc",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "1e0a9b12",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "1e32b0e9",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "1e5d6875",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "1e81d6f9",
+    "programs": 344,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "1efba499",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "1f0c79e5",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "1f642eb9",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "1f85a75f",
+    "programs": 264,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": [
+      {
+        "name": "largest_object_False_None",
+        "orientation": 0,
+        "complexity": 2.0
+      }
+    ]
+  },
+  {
+    "task_id": "1f876c06",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "1fad071e",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "2013d3e2",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "2037f2c7",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "2072aba6",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "20818e16",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "20981f0e",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "20fb2937",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "212895b5",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "21f83797",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "2204b7a8",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "22168020",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "22208ba4",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "22233c11",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "22425bda",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "22806e14",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "2281f1f4",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "228f6490",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "22a4bbc2",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "22eb0ac0",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "230f2e48",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "234bbc79",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "23581191",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "239be575",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "23b5c85d",
+    "programs": 264,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "smallest_object_True_None",
+        "orientation": 0,
+        "complexity": 2.0
+      }
+    ]
+  },
+  {
+    "task_id": "25094a63",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "252143c9",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "253bf280",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "2546ccf6",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "256b0a75",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "25c199f5",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "25d487eb",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "25d8a9c8",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "25e02866",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "25ff71a9",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "2601afb7",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "264363fd",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0629999999946449,
+    "selected": []
+  },
+  {
+    "task_id": "2685904e",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "2697da3f",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "272f95fa",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "2753e76c",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "278e5215",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "27a28665",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "27a77e38",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "27f8ce4f",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "281123b4",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "28bf18c6",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "28e73c20",
+    "programs": 200,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "292dd178",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "29623171",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "29700607",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "29c11459",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "2a28add5",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "2a5f8217",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "2b01abd0",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "2b9ef948",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "2bcee788",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "2bee17df",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "2c0b0aff",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "2c608aff",
+    "programs": 256,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "2c737e39",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "2ccd9fef",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "2dc579da",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "2dd70a9a",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "2de01db2",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "2dee498d",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "2e65ae53",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "2f0c5170",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "2f767503",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "2faf500b",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "305b1341",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "30f42897",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "310f3251",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3194b014",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "319f2597",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": []
+  },
+  {
+    "task_id": "31aa019c",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "31adaf00",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "31d5ba1a",
+    "programs": 328,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": [
+      {
+        "name": "halves_0_xor_None",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "320afe60",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "321b1fc6",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "32597951",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "32e9702f",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "33067df9",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "332202d5",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "332efdb3",
+    "programs": 216,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "3345333e",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "337b420f",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "3391f8c0",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "33b52de3",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3428a4f5",
+    "programs": 296,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "halves_0_xor_None",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "342ae2ed",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "342dd610",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3490cc26",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "34b99a2b",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": [
+      {
+        "name": "halves_1_xor_None",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "34cfa167",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "351d6448",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "358ba94e",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3618c87e",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "363442ee",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "36d67576",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "36fdfd69",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "37ce87bb",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "37d3e8b2",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "3906de3d",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "396d80d7",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": []
+  },
+  {
+    "task_id": "3979b1a8",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "39a8645d",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "39e1d7f9",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.062000000005355105,
+    "selected": []
+  },
+  {
+    "task_id": "3a301edc",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3aa6fb7a",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "3ac3eb23",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "3ad05f52",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "3af2c5a8",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "3b4c2228",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "3bd292e8",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "3bd67248",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3bdb4ada",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3befdf3e",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "3c9b0459",
+    "programs": 304,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 2,
+        "complexity": 0.1
+      }
+    ]
+  },
+  {
+    "task_id": "3cd86f4f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "3d31c5b3",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3d588dc9",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3d6c6e23",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "3de23699",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "3e980e27",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "3eda0437",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "3ee1011a",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3f23242b",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "3f7978a0",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "4093f84a",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "40f6cd08",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": []
+  },
+  {
+    "task_id": "412b6263",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "414297c0",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "41ace6b5",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "41e4d17e",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "423a55dc",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "4258a5f9",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "4290ef0e",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "42918530",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "42a15761",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "42a50994",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "42f14c03",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "42f83767",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "4347f46a",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "4364c1c4",
+    "programs": 256,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "444801d8",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "445eab21",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "447fd412",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "44d8ac46",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "44f52bb0",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "4522001f",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "456873bc",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "45737921",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "458e3a53",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": []
+  },
+  {
+    "task_id": "45bbe264",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "4612dd53",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "46442a0e",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "465b7d93",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "469497ad",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "46c35fc7",
+    "programs": 352,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "46f33fce",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "470c91de",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "47c1f68c",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "48131b3c",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "484b58aa",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0629999999946449,
+    "selected": []
+  },
+  {
+    "task_id": "4852f2fa",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "48634b99",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "48d8fb45",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "48f8583b",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "4938f0c2",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "494ef9d7",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "496994bd",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "49d1d64f",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "4a1cacc2",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "4acc7107",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "4b6b68e5",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "4be741c5",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "4c177718",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "4c4377d9",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "4c5c2cf0",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "4cd1b7b2",
+    "programs": 344,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "4df5b0ae",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "4e45f183",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "4e469f39",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "4e7e0eb9",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "4f537728",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "4ff4c9da",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "5034a0b5",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "505fff84",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "506d28a5",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_0_or_None",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "50846271",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "508bd3b6",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "50a16a69",
+    "programs": 256,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "50aad11f",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "50c07299",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "50cb2852",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "50f325b5",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "5117e062",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "5168d44c",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "516b51b7",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "5207a7b5",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "522fdd07",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "52364a65",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5289ad53",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "52df9849",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "52fd389e",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "538b439f",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "539a4f51",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "53b68214",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "543a7ed5",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "54d82841",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "54d9e175",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "54db823b",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "54dc2872",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "55059096",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "551d5bf1",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "5521c0d9",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "5582e5ca",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5587a8d0",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "5614dbcf",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5623160b",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "56dc2b01",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "56ff96f3",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5751f35e",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "575b1a71",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "5783df64",
+    "programs": 368,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5792cb4d",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "57aa92db",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "57edb29d",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "5833af48",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "58743b76",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "58c02a16",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "58e15b12",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "59341089",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5a5a2103",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "5a719d11",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "5ad4f10b",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "5ad8a7c0",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "5adee1b2",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "5af49b42",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "5b37cb25",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "5b526a93",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "5b692c0f",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "5b6cbef5",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5bd6f4ac",
+    "programs": 368,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "5c0a986e",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5c2c9af4",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "5d2a5c43",
+    "programs": 312,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": [
+      {
+        "name": "halves_1_or_0",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "5d588b4d",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5daaa586",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "5e6bbc0b",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5ecac7f7",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "5ffb2104",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "60a26a3e",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "60b61512",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "60c09cac",
+    "programs": 312,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": [
+      {
+        "name": "upscale_2",
+        "orientation": 0,
+        "complexity": 1.0
+      }
+    ]
+  },
+  {
+    "task_id": "60d73be6",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6150a2bd",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 2,
+        "complexity": 0.1
+      }
+    ]
+  },
+  {
+    "task_id": "6165ea8f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "623ea044",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "626c0bcc",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "62ab2642",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "62b74c02",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "62c24649",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "6350f1f4",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "63613498",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "639f5a19",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "642248e4",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "642d658d",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "6430c8c4",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": [
+      {
+        "name": "halves_0_or_None",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "6455b5f5",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "64a7c07e",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "652646ff",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "662c240a",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "668eec9a",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "66ac4c3b",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "66e6c45b",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "66f2d22f",
+    "programs": 296,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": [
+      {
+        "name": "halves_1_or_None",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "67385a82",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "673ef223",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "67636eac",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6773b310",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "67a3c6ac",
+    "programs": 336,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 5,
+        "complexity": 0.1
+      }
+    ]
+  },
+  {
+    "task_id": "67a423a3",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "67c52801",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "67e8384a",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "681b3aeb",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6855a6e4",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "689c358e",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "68b16354",
+    "programs": 352,
+    "consistent_programs": 2,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 7,
+        "complexity": 0.1
+      },
+      {
+        "name": "largest_object_False_None",
+        "orientation": 7,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "68b67ca3",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "68bc2e87",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "692cd3b6",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "694f12f3",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "695367ec",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "696d4842",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "69889d6e",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "6a11f6da",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "6a1e5592",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "6a980be1",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6aa20dc0",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "6ad5bdfd",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6b9890af",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6bcdb01e",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "6c434453",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "6ca952ad",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "6cbe9eb8",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "6cdd2623",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "6cf79266",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "6d0160f0",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6d0aefbc",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "6d1d5c90",
+    "programs": 368,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "6d58a25d",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "6d75e8bb",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6df30ad6",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6e02f1e3",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "6e19193c",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "6e82a1ae",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "6ea4a07e",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "6ecd11f4",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "6f473927",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "6f8cd79b",
+    "programs": 232,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "6fa7a44f",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "6ffe8f07",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "7039b2d7",
+    "programs": 256,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "705a3229",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "712bf12e",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "72207abc",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "72322fa7",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "72a961c9",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "72ca375d",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "73182012",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "73c3b0d8",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "73ccf9c2",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "7447852a",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "7468f01a",
+    "programs": 264,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "foreground_bbox_None",
+        "orientation": 5,
+        "complexity": 1.1
+      }
+    ]
+  },
+  {
+    "task_id": "746b3537",
+    "programs": 304,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "compress_repeated_rows_columns",
+        "orientation": 0,
+        "complexity": 1.0
+      }
+    ]
+  },
+  {
+    "task_id": "74dd1130",
+    "programs": 304,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 4,
+        "complexity": 0.1
+      }
+    ]
+  },
+  {
+    "task_id": "753ea09b",
+    "programs": 256,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.07800000000861473,
+    "selected": []
+  },
+  {
+    "task_id": "758abdf0",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "759f3fd3",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "75b8110e",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "760b3cac",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "762cd429",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "770cc55f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "776ffc46",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "77fdfe62",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "780d0b14",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "782b5218",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "7837ac64",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.062000000005355105,
+    "selected": []
+  },
+  {
+    "task_id": "78e78cff",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "79369cc6",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "794b24be",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "7953d61e",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "79cce52d",
+    "programs": 376,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "7acdf6d3",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "7b6016b9",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "7b7f7511",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "7bb29440",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "7c008303",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "7c8af763",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "7c9b52a0",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "7d18a6fb",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "7d1f7ee8",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "7d419a02",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "7d7772cc",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "7ddcd7ec",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "7df24a62",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "7e02026e",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "7e0986d6",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "7e2bad24",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "7e4d4f7c",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "7e576d6e",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "7ec998c9",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "7ee1c6ea",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "7f4411dc",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "7fe24cdd",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "80214e03",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "80af3007",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "810b9b61",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "817e6c09",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "81c0276b",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "825aa9e9",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "82819916",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "83302e8f",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "833966f4",
+    "programs": 240,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "833dafe3",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "834ec97d",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "83b6b474",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "83eb0a57",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046000000002095476,
+    "selected": []
+  },
+  {
+    "task_id": "8403a5d5",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "84551f4c",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "845d6e51",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "846bdb03",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "84ba50d3",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "84db8fc4",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "84f2aca1",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "855e0971",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "8597cfd7",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "85b81ff1",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "85c4e7cd",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "85fa5666",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "8618d23e",
+    "programs": 224,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "868de0fa",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "8719f442",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8731374e",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.062000000005355105,
+    "selected": []
+  },
+  {
+    "task_id": "878187ab",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "87ab05b8",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "880c1354",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "88207623",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8886d717",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "88a10436",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "88a62173",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "890034e9",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "891232d6",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "896d5239",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "8a004b2b",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "8a371977",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "8a6d367c",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "8abad3cf",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8b28cd80",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "8ba14f53",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8be77c9e",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "8cb8642d",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "8d5021e8",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8d510a79",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8dab14c2",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "8dae5dfc",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "8e1813be",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "8e2edd66",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8e301a54",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "8e5a5113",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8eb1be9a",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "8ee62060",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "8efcae92",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "8f2ea7aa",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "8fbca751",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "8fff9e47",
+    "programs": 360,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "902510d5",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "90347967",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "90c28cc7",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "90f3ed37",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "9110e3c5",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "913fb3ed",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "91413438",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "91714a58",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "9172f3a0",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "upscale_3",
+        "orientation": 0,
+        "complexity": 1.0
+      }
+    ]
+  },
+  {
+    "task_id": "917bccba",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": []
+  },
+  {
+    "task_id": "928ad970",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "92e50de0",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": []
+  },
+  {
+    "task_id": "9344f635",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9356391f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "93b4f4b3",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "93b581b8",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "93c31fbe",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "94133066",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "941d9a10",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "94414823",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "9473c6fb",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "94be5b80",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "94f9d214",
+    "programs": 312,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_0_or_0",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "952a094c",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "9565186b",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "95755ff2",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "95990924",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "95a58926",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "963c33f8",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "963e52fc",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "963f59bc",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "96a8c0cd",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "9720b24f",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "97239e3d",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "973e499e",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9772c176",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "97999447",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "97a05b5b",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "97c75046",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "981add89",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "9841fdad",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "984d8a3e",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "985ae207",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "98c475bf",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "98cf29f8",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "992798f6",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "99306f82",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "995c5fa3",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9968a131",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "996ec1f3",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "99b1bc43",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_0_xor_0",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "99caaf76",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "99fa7670",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9a4bb226",
+    "programs": 344,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "9aec4887",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "9af7a82c",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9b2a60aa",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "9b30e358",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "9b365c51",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "9b4c17c4",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "9b5080bb",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "9ba4a9aa",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "9bebae7a",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "9c1e755f",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9c56f360",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9caba7c3",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "9caf5b84",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "9d9215db",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "9ddd00f0",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9def23fe",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "9dfd6313",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 4,
+        "complexity": 0.1
+      }
+    ]
+  },
+  {
+    "task_id": "9edfc990",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "9f236235",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "9f27f097",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9f41bd9c",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "9f5f939b",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "9f669b64",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "9f8de559",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "a04b2602",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "a096bf4d",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "a09f6c25",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "a1570a43",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "a1aa0c1e",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "a2d730bd",
+    "programs": 256,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "a2fd1cf0",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "a3325580",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "a3f84088",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "a406ac07",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "a416b8f3",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "a416fc5b",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "a48eeaf7",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "a5313dff",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "a57f2f04",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "a59b95c0",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "a5f85a15",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "a61ba2ce",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "a61f2674",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "a644e277",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "a64e4611",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "a65b410d",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "a680ac02",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "a68b268e",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "a6953f00",
+    "programs": 344,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "a699fb00",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "a740d043",
+    "programs": 312,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "foreground_bbox_None",
+        "orientation": 0,
+        "complexity": 1.05
+      }
+    ]
+  },
+  {
+    "task_id": "a78176bb",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "a79310a0",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "a834deea",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "a85d4709",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "a8610ef7",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "a87f7484",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "a8c38be5",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "a8d7556c",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "a934301b",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "a9f96cdd",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "aa18de87",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "aa300dc3",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "aa62e3f4",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "aab50785",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "aabf363d",
+    "programs": 312,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 0,
+        "complexity": 0.2
+      }
+    ]
+  },
+  {
+    "task_id": "aaecdb9a",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "aaef0977",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "aba27056",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "abbfd121",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "ac0a08a4",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "ac0c2ac3",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ac0c5833",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "ac2e8ecf",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "ac3e2b04",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "ac605cbb",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ac6f9922",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ad173014",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "ad38a9d0",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "ad3b40cf",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ad7e01d0",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "ae3edfdc",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "ae4f1146",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "ae58858e",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "aedd82e4",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "aee291af",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "af24b4cc",
+    "programs": 344,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "af726779",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "af902bf9",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "afe3afe9",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "b0722778",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b0c4d837",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "b0f4d537",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b15fca0b",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b190f7f5",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b1948b0a",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 0,
+        "complexity": 0.05
+      }
+    ]
+  },
+  {
+    "task_id": "b1986d4b",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": []
+  },
+  {
+    "task_id": "b1fc8b8e",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "b20f7c8b",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "b230c067",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b25e450b",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b27ca6d3",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "b2862040",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b2bc3ffd",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b457fec5",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "b4a43f3b",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b527c5c6",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "b548a754",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b5bb5719",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b60334d2",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b6afb2da",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b71a7747",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "b7249182",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b7256dcd",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b745798f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b74ca5d1",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.062000000005355105,
+    "selected": []
+  },
+  {
+    "task_id": "b775ac94",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b782dc8a",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "b7955b3c",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b7999b51",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b7cb93ac",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b7f8a4d8",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "b7fb29bc",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "b8825c91",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "b8cdaf2b",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "b91ae062",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "b942fd60",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b94a9452",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "b9630600",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046000000002095476,
+    "selected": []
+  },
+  {
+    "task_id": "b9b7f026",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "ba1aa698",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "ba26e723",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "ba97ae07",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ba9d41b8",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "bae5c565",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "baf41dbf",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "bb43febb",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "bb52a14b",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "bbb1b8b6",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "bbc9ae5d",
+    "programs": 216,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "bc1d5164",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "bc4146bd",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "bc93ec48",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "bcb3040b",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "bd14c3bf",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "bd283c4a",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "bd4472b8",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "bd5af378",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "bda2d7a6",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "bdad9b1f",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "be03b35f",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "be94b721",
+    "programs": 280,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "largest_object_False_None",
+        "orientation": 0,
+        "complexity": 2.0
+      }
+    ]
+  },
+  {
+    "task_id": "beb8660c",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "bf32578f",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "bf699163",
+    "programs": 304,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": [
+      {
+        "name": "largest_object_True_None",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "bf89d739",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c074846d",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "c0f76784",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "c1990cce",
+    "programs": 208,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c1d99e64",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "c3202e5a",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "c35c1b4c",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c3e719e8",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "c3fa4749",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "c444b776",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "c48954c1",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c4d1a9ae",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c59eb873",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "upscale_2",
+        "orientation": 0,
+        "complexity": 1.0
+      }
+    ]
+  },
+  {
+    "task_id": "c6141b15",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "c61be7dc",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c62e2108",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "c64f1187",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c658a4bd",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c6e1b8da",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "c7d4e6ad",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "c803e39c",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "c87289bb",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c8b7cc0f",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "c8cbb738",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "c8f0f002",
+    "programs": 328,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 0,
+        "complexity": 0.05
+      }
+    ]
+  },
+  {
+    "task_id": "c909285e",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "c920a713",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "c92b942c",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c9680e90",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "c97c0139",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "c9e6f938",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "c9f8e694",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "ca8de6ea",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "caa06a1f",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "cad67732",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "cb227835",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "cbded52d",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "cc9053aa",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "ccd554ac",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "cce03e0d",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "cd3c21df",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "cdecee7f",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ce039d91",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ce22a75a",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "ce4f8723",
+    "programs": 320,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_0_or_None",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "ce602527",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "ce8d95cc",
+    "programs": 296,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": [
+      {
+        "name": "compress_repeated_rows_columns",
+        "orientation": 0,
+        "complexity": 1.0
+      }
+    ]
+  },
+  {
+    "task_id": "ce9e57f2",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "cf133acc",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "cf5fd0ad",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "cf98881b",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "cfb2ce5a",
+    "programs": 344,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d017b73f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d037b0a7",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d06dbe63",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "d07ae81c",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "d0f5fe59",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "d10ecb37",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d13f3404",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d19f7514",
+    "programs": 296,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "halves_0_or_None",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "d22278a0",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "d23f8c26",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d255d7a7",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d282b262",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d2abd087",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "d2acf2cb",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "d304284e",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "d364b489",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d37a1ef5",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d406998b",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d43fd935",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d4469b4b",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "d47aa2ff",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d492a647",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d4a91cb9",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d4b1c2b1",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d4c90558",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "d4f3cd78",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d511f180",
+    "programs": 336,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 0,
+        "complexity": 0.1
+      }
+    ]
+  },
+  {
+    "task_id": "d56f2372",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "d5c634a2",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d5d6de2d",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d631b094",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "d6542281",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d687bc17",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d6ad076f",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "d6e50e54",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d749d46f",
+    "programs": 256,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "d753a70b",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d89b689b",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "d8c310e9",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d90796e8",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d931c21c",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "d93c6891",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "d94c3b52",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "d968ffd4",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d9f24cd1",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "d9fac9be",
+    "programs": 280,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "smallest_object_True_None",
+        "orientation": 0,
+        "complexity": 2.0
+      }
+    ]
+  },
+  {
+    "task_id": "da2b0fe3",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "da6e95e5",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  },
+  {
+    "task_id": "dae9d2b5",
+    "programs": 328,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_1_or_None",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "db118e2a",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "db3e9e38",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "db615bd4",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "db7260a4",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "db93a21d",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "dbc1a6ce",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "dc1df850",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "dc2aa30b",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "dc2e9a9d",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "dc433765",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "dc46ea44",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "dce56571",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "dd2401ed",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ddf7fa4f",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "de1cd16c",
+    "programs": 264,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0470000000204891,
+    "selected": [
+      {
+        "name": "smallest_object_True_None",
+        "orientation": 0,
+        "complexity": 2.2
+      }
+    ]
+  },
+  {
+    "task_id": "de493100",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.09399999998277053,
+    "selected": []
+  },
+  {
+    "task_id": "ded97339",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "df8cc377",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "df978a02",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "df9fd884",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e048c9ed",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e0fb7511",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e133d23d",
+    "programs": 336,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": [
+      {
+        "name": "halves_1_or_None",
+        "orientation": 0,
+        "complexity": 2.05
+      }
+    ]
+  },
+  {
+    "task_id": "e179c5f4",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e1baa8a4",
+    "programs": 296,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": [
+      {
+        "name": "compress_repeated_rows_columns",
+        "orientation": 0,
+        "complexity": 1.0
+      }
+    ]
+  },
+  {
+    "task_id": "e1d2900e",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "e2092e0c",
+    "programs": 352,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e21a174a",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e21d9049",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e26a3af2",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "e345f17b",
+    "programs": 312,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_1_or_None",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "e3497940",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e39e9282",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e3f79277",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e3fe1151",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e4075551",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "e40b9e2f",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e41c6fd3",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "e45ef808",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e4888269",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e48d4e1a",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "e4941b18",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e5062a87",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e509e548",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e50d258f",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "e57337a4",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e5790162",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e5c44e8f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e619ca6e",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "e633a9e5",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e6721834",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.031000000017229468,
+    "selected": []
+  },
+  {
+    "task_id": "e681b708",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "e69241bd",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e6de6e8f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e729b7be",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e73095fd",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "e734a0e8",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "e74e1818",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e760a62e",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "e7639916",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e76a88a6",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e78887d1",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e7a25a18",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e7b06bea",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "e7dd8335",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e84fef15",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0629999999946449,
+    "selected": []
+  },
+  {
+    "task_id": "e8593010",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e872b94a",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e88171ec",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e8dc4411",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e9614598",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "e98196ab",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e99362f0",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "e9ac8c9e",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "e9afcf9a",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e9b4f6fc",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "e9bb6954",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "e9c9d9a1",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "e9fc42f2",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ea32f347",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "ea786f4a",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "ea959feb",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0629999999946449,
+    "selected": []
+  },
+  {
+    "task_id": "ea9794b1",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "eb281b96",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "eb5a1d5d",
+    "programs": 256,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": [
+      {
+        "name": "compress_repeated_rows_columns",
+        "orientation": 0,
+        "complexity": 1.0
+      }
+    ]
+  },
+  {
+    "task_id": "ec883f72",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ecaa0ec1",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ecb67b6d",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "ecdecbb3",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "ed36ccf7",
+    "programs": 312,
+    "consistent_programs": 2,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": [
+      {
+        "name": "identity",
+        "orientation": 3,
+        "complexity": 0.1
+      },
+      {
+        "name": "foreground_bbox_0",
+        "orientation": 3,
+        "complexity": 1.1
+      }
+    ]
+  },
+  {
+    "task_id": "ed74f2f2",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "ed98d772",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "edcc2ff0",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ef135b50",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ef26cbf6",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "f0100645",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f0afb749",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f0df5ff0",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f0f8a26d",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "f15e1fac",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "f18ec8cc",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "f1bcbc2c",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f1cefba8",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f21745ec",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "f25fbde4",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f25ffba3",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f2829549",
+    "programs": 336,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": [
+      {
+        "name": "halves_1_or_None",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "f28a3cbb",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f341894c",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "f35d900a",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "f3b10344",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03200000000651926,
+    "selected": []
+  },
+  {
+    "task_id": "f3cdc58f",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f3e14006",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f3e62deb",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f45f5ca7",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "f5aa3634",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f5b8619d",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "f5c89df1",
+    "programs": 304,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f76d97a5",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "f823c43c",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f83cb3f6",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f8a8fe49",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f8b3ba0a",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "f8be4b64",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f8c80d96",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "f8cc533f",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "f8f52ecc",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "f8ff0b80",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f9012d9b",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "f9a67cb5",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "f9d67f8b",
+    "programs": 328,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.09299999999348074,
+    "selected": []
+  },
+  {
+    "task_id": "fafd9572",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "fafffa47",
+    "programs": 328,
+    "consistent_programs": 1,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": [
+      {
+        "name": "halves_0_or_0",
+        "orientation": 0,
+        "complexity": 2.1
+      }
+    ]
+  },
+  {
+    "task_id": "fb791726",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "fbf15a0b",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.014999999984866008,
+    "selected": []
+  },
+  {
+    "task_id": "fc10701f",
+    "programs": 288,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "fc4aaf52",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "fc754716",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "fcb5c309",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "fcc82909",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0159999999741558,
+    "selected": []
+  },
+  {
+    "task_id": "fd02da9e",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "fd096ab6",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "fd4b2b02",
+    "programs": 264,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "fe45cba4",
+    "programs": 312,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "fe9372f3",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "fea12743",
+    "programs": 272,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.0,
+    "selected": []
+  },
+  {
+    "task_id": "feca6190",
+    "programs": 232,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ff2825db",
+    "programs": 336,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.015000000013969839,
+    "selected": []
+  },
+  {
+    "task_id": "ff28f65a",
+    "programs": 320,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.030999999988125637,
+    "selected": []
+  },
+  {
+    "task_id": "ff72ca3e",
+    "programs": 296,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.01600000000325963,
+    "selected": []
+  },
+  {
+    "task_id": "ff805c23",
+    "programs": 280,
+    "consistent_programs": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.046999999991385266,
+    "selected": []
+  }
+]

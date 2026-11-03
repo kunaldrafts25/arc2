@@ -9,7 +9,7 @@
       "bytes": 584,
       "track": "shared",
       "published_sha256": "ffe82f3c5b968ed009c2577fa38f32c83be167799ee565d40a18e3440c57b342",
-      "transformation": "Repository-specific entry point or Git attributes; original content preserved in combined workspace/history"
+      "transformation": "Repository-specific documentation or Git metadata; original source hash retained"
     },
     {
       "source_path": "ARC-AGI-3-Kaggle-Starter/.gitignore",
@@ -17,8 +17,8 @@
       "sha256": "762fcc1beecdf42d4d1414d7e197a94bc5254869df7e8bed0daa1813cf0b86ca",
       "bytes": 2951,
       "track": "shared",
-      "published_sha256": "521fbcd5ec80b37cc45c48fcd01ecf2c0f4a4e39da1f157a376b5513a4ef19c8",
-      "transformation": "Repository-specific entry point or Git attributes; original content preserved in combined workspace/history"
+      "published_sha256": "c4009cb30ccf7582ef0e938f26b8f0e16af8e0dbb79e395a62fca6edacab16c4",
+      "transformation": "Repository-specific documentation or Git metadata; original source hash retained"
     },
     {
       "source_path": "ARC-AGI-3-Kaggle-Starter/LICENSE",
@@ -62,7 +62,7 @@
       "bytes": 1954,
       "track": "shared",
       "published_sha256": "00c928f2f5e2cc5b26aab3c173f377c1875e48ba0bacd0cf28bd537468450af8",
-      "transformation": "ARC2-specific notices; original retained in combined repository"
+      "transformation": "Repository-specific documentation or Git metadata; original source hash retained"
     },
     {
       "source_path": "ARC-AGI-3-Kaggle-Starter/arc2/adaptation.py",
@@ -1000,7 +1000,7 @@
       "sha256": "36d2baaa12231b111b919823f49dca11931d53bac571821680f285e971527197"
     }
   ],
-  "notes": "Generated root README/attributes/ignore/CI are tailored for this repository. Original code, evidence and evaluated notebook bytes are copied unchanged; private/heavy artifacts are explicitly inventoried, not silently dropped.",
+  "notes": "Code and evaluated notebook bytes are preserved. Additional model/raw-data files are published in GitHub Release assets and mapped by ARTIFACTS.json. Remaining exclusions are credentials, disposable caches, downloaded game bundles or third-party papers.",
   "verification": {
     "visible_source_files_accounted_for": 1272,
     "unaccounted_visible_files": 0,
@@ -1010,5 +1010,10 @@
       "skip_reason": "optional downloaded public game cache absent"
     },
     "arc2_tests_passed": 19
-  }
+  },
+  "external_artifacts": [],
+  "artifact_manifest": "ARTIFACTS.json",
+  "artifact_files": 0,
+  "artifact_storage": "GitHub Release assets; no Git LFS or paid-storage setting changes",
+  "artifact_release": null
 }

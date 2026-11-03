@@ -6,3 +6,6 @@ __pycache__/
 .tmp/
 *.pyc
 test-artifacts/
+
+# Release payloads are restored separately, never accidentally committed.
+.artifact-cache/

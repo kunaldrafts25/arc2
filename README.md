@@ -1,3 +1,7 @@
+# Artifact publication update
+
+See [ARTIFACTS.md](ARTIFACTS.md) for the completed ARC2 artifact inventory.
+
 # ARC-Hydra: ARC-AGI-2
 
 Standalone ARC2 source, training/adaptation experiments, notebook packages, research and result evidence from the combined workspace.

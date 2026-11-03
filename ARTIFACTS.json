@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "repository": "kunaldrafts25/arc2",
+  "release_url": null,
+  "storage": "GitHub Release assets; no Git LFS or paid-storage setting changes",
+  "files": [],
+  "assets": [],
+  "restoration_verified": {
+    "passed": true,
+    "arc3_restored": {
+      "verified": 319,
+      "restored": 302
+    },
+    "combined_verified": {
+      "verified": 319,
+      "restored": 0
+    },
+    "path_escape_rejected": true,
+    "windows_long_paths_supported": true,
+    "files": 319,
+    "source_bytes": 3003424404
+  },
+  "scope": "No additional withheld ARC2 adapter/raw-data files were present; ARC2 source and recorded results are already in Git"
+}
